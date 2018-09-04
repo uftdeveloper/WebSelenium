@@ -1,0 +1,9 @@
+2018-02-07 17:43:20 - [INFO] - [Log.doLogger()] - Main.initiateLog# 
+2018-02-07 17:43:20 - [INFO] - [Log.doLogger()] - Main.initMain# 
+2018-02-07 17:43:20 - [INFO] - [Log.doLogger()] - TestScript.prepareTestScripts - 1 TotalTestScriptFiles
+2018-02-07 17:43:20 - [INFO] - [Log.doLogger()] - TestScript.loadTestScript - C:\Wihemdra\Project\APP\04 DEVELOPMENT\TestScript\IPP_CMFFSI_v3.6c.xlsx
+2018-02-07 17:43:22 - [INFO] - [Log.doLogger()] - TestScript.loadTestScript# 448 Step
+2018-02-07 17:43:22 - [INFO] - [Log.doLogger()] - TestScript.loadTestData
+2018-02-07 17:43:23 - [INFO] - [Log.doLogger()] - TestScript.loadTestData# 95 Row
+2018-02-07 17:43:23 - [INFO] - [Log.doLogger()] - TestScript.prepareTestScripts# 95 FinalTestScript
+2018-02-07 17:43:23 - [INFO] - [Log.doLogger()] - Main.main# 

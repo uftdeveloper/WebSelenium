@@ -1,0 +1,5 @@
+2018-02-07 17:43:09 - [INFO] - [Log.doLogger()] - Main.initiateLog# 
+2018-02-07 17:43:09 - [INFO] - [Log.doLogger()] - Main.initMain# 
+2018-02-07 17:43:10 - [INFO] - [Log.doLogger()] - TestScript.prepareTestScripts - 0 TotalTestScriptFiles
+2018-02-07 17:43:10 - [INFO] - [Log.doLogger()] - TestScript.prepareTestScripts# 0 FinalTestScript
+2018-02-07 17:43:10 - [INFO] - [Log.doLogger()] - Main.main# 

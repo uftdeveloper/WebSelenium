@@ -1,0 +1,1961 @@
+2018-02-12 20:41:10 : *************************************************
+2018-02-12 20:41:10 : * * * * * * 01_Demo_a
+2018-02-12 20:41:10 : *************************************************
+2018-02-12 20:41:10 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 20:41:10 : Step Name   : [MainPage] Click User
+2018-02-12 20:41:10 : Test Status : FAILED
+2018-02-12 20:41:10 : Test Data   : Clicked
+2018-02-12 20:41:10 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 20:41:10 : Step Name   : [MainPage] Click Register
+2018-02-12 20:41:10 : Test Status : FAILED
+2018-02-12 20:41:10 : Test Data   : Clicked
+2018-02-12 20:41:10 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 20:41:10 : Step Name   : [Register] 
+2018-02-12 20:41:10 : Test Status : FAILED
+2018-02-12 20:41:10 : Test Data   : siauhui1
+2018-02-12 20:41:10 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 20:41:10 : Step Name   : [Register] 
+2018-02-12 20:41:10 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 20:41:11 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : Password1
+2018-02-12 20:41:11 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : Password1
+2018-02-12 20:41:11 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : Lee
+2018-02-12 20:41:11 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : Siau Hui
+2018-02-12 20:41:11 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : 016-3931808
+2018-02-12 20:41:11 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : Malaysia
+2018-02-12 20:41:11 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : 11,Jln Bangsar
+2018-02-12 20:41:11 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : PJ
+2018-02-12 20:41:11 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:11 : Test Status : FAILED
+2018-02-12 20:41:11 : Test Data   : 51200
+2018-02-12 20:41:11 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 20:41:11 : Step Name   : [Register] 
+2018-02-12 20:41:12 : Test Status : FAILED
+2018-02-12 20:41:12 : Test Data   : On
+2018-02-12 20:41:12 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 20:41:12 : Step Name   : [Register] 
+2018-02-12 20:41:12 : Test Status : FAILED
+2018-02-12 20:41:12 : Test Data   : Clicked
+2018-02-12 20:55:30 : *************************************************
+2018-02-12 20:55:30 : * * * * * * 01_Demo_a
+2018-02-12 20:55:30 : *************************************************
+2018-02-12 20:55:30 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 20:55:30 : Step Name   : [MainPage] Click User
+2018-02-12 20:56:04 : Test Status : PASSED
+2018-02-12 20:56:04 : Test Data   : Clicked
+2018-02-12 20:56:04 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 20:56:04 : Step Name   : [MainPage] Click Register
+2018-02-12 20:56:37 : Test Status : PASSED
+2018-02-12 20:56:37 : Test Data   : Clicked
+2018-02-12 20:56:37 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 20:56:37 : Step Name   : [Register] 
+2018-02-12 20:57:50 : Test Status : PASSED
+2018-02-12 20:57:50 : Test Data   : siauhui1
+2018-02-12 20:57:50 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 20:57:50 : Step Name   : [Register] 
+2018-02-12 21:00:27 : Test Status : PASSED
+2018-02-12 21:00:27 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:00:27 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:00:27 : Step Name   : [Register] 
+2018-02-12 21:01:44 : Test Status : PASSED
+2018-02-12 21:01:44 : Test Data   : Password1
+2018-02-12 21:01:44 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:01:44 : Step Name   : [Register] 
+2018-02-12 21:03:01 : Test Status : PASSED
+2018-02-12 21:03:01 : Test Data   : Password1
+2018-02-12 21:03:01 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:03:01 : Step Name   : [Register] 
+2018-02-12 21:03:48 : Test Status : PASSED
+2018-02-12 21:03:48 : Test Data   : Lee
+2018-02-12 21:03:48 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:03:48 : Step Name   : [Register] 
+2018-02-12 21:04:59 : Test Status : PASSED
+2018-02-12 21:05:00 : Test Data   : Siau Hui
+2018-02-12 21:05:00 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:05:00 : Step Name   : [Register] 
+2018-02-12 21:06:26 : Test Status : PASSED
+2018-02-12 21:06:26 : Test Data   : 016-3931808
+2018-02-12 21:06:26 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:06:26 : Step Name   : [Register] 
+2018-02-12 21:06:27 : Test Status : PASSED
+2018-02-12 21:06:27 : Test Data   : Malaysia
+2018-02-12 21:06:27 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 21:06:27 : Step Name   : [Register] 
+2018-02-12 21:08:09 : Test Status : PASSED
+2018-02-12 21:08:09 : Test Data   : 11,Jln Bangsar
+2018-02-12 21:08:09 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 21:08:09 : Step Name   : [Register] 
+2018-02-12 21:08:51 : Test Status : PASSED
+2018-02-12 21:08:51 : Test Data   : PJ
+2018-02-12 21:08:51 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 21:08:51 : Step Name   : [Register] 
+2018-02-12 21:09:48 : Test Status : PASSED
+2018-02-12 21:09:48 : Test Data   : 51200
+2018-02-12 21:09:48 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 21:09:48 : Step Name   : [Register] 
+2018-02-12 21:10:30 : Test Status : PASSED
+2018-02-12 21:10:30 : Test Data   : On
+2018-02-12 21:10:30 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 21:10:30 : Step Name   : [Register] 
+2018-02-12 21:11:02 : Test Status : PASSED
+2018-02-12 21:11:02 : Test Data   : Clicked
+2018-02-12 21:24:07 : *************************************************
+2018-02-12 21:24:07 : * * * * * * 01_Demo_a
+2018-02-12 21:24:07 : *************************************************
+2018-02-12 21:24:07 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:24:07 : Step Name   : [MainPage] Click User
+2018-02-12 21:24:10 : Test Status : PASSED
+2018-02-12 21:24:10 : Test Data   : Clicked
+2018-02-12 21:24:10 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:24:10 : Step Name   : [MainPage] Click Register
+2018-02-12 21:24:11 : Test Status : FAILED
+2018-02-12 21:24:11 : Test Data   : Clicked
+2018-02-12 21:24:11 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:24:11 : Step Name   : [Register] 
+2018-02-12 21:24:13 : Test Status : FAILED
+2018-02-12 21:24:13 : Test Data   : siauhui1
+2018-02-12 21:24:13 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:24:13 : Step Name   : [Register] 
+2018-02-12 21:24:14 : Test Status : FAILED
+2018-02-12 21:24:14 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:24:14 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:24:14 : Step Name   : [Register] 
+2018-02-12 21:24:16 : Test Status : FAILED
+2018-02-12 21:24:16 : Test Data   : Password1
+2018-02-12 21:24:16 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:24:16 : Step Name   : [Register] 
+2018-02-12 21:24:18 : Test Status : FAILED
+2018-02-12 21:24:18 : Test Data   : Password1
+2018-02-12 21:24:18 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:24:18 : Step Name   : [Register] 
+2018-02-12 21:24:19 : Test Status : FAILED
+2018-02-12 21:24:19 : Test Data   : Lee
+2018-02-12 21:24:19 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:24:19 : Step Name   : [Register] 
+2018-02-12 21:24:21 : Test Status : FAILED
+2018-02-12 21:24:21 : Test Data   : Siau Hui
+2018-02-12 21:24:21 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:24:21 : Step Name   : [Register] 
+2018-02-12 21:24:23 : Test Status : FAILED
+2018-02-12 21:24:23 : Test Data   : 016-3931808
+2018-02-12 21:24:23 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:24:23 : Step Name   : [Register] 
+2018-02-12 21:24:25 : Test Status : FAILED
+2018-02-12 21:24:25 : Test Data   : Malaysia
+2018-02-12 21:24:25 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 21:24:25 : Step Name   : [Register] 
+2018-02-12 21:24:26 : Test Status : FAILED
+2018-02-12 21:24:26 : Test Data   : 11,Jln Bangsar
+2018-02-12 21:24:26 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 21:24:26 : Step Name   : [Register] 
+2018-02-12 21:24:28 : Test Status : FAILED
+2018-02-12 21:24:28 : Test Data   : PJ
+2018-02-12 21:24:28 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 21:24:28 : Step Name   : [Register] 
+2018-02-12 21:24:30 : Test Status : FAILED
+2018-02-12 21:24:30 : Test Data   : 51200
+2018-02-12 21:24:30 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 21:24:30 : Step Name   : [Register] 
+2018-02-12 21:24:31 : Test Status : FAILED
+2018-02-12 21:24:31 : Test Data   : On
+2018-02-12 21:24:31 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 21:24:31 : Step Name   : [Register] 
+2018-02-12 21:24:33 : Test Status : FAILED
+2018-02-12 21:24:33 : Test Data   : Clicked
+2018-02-12 21:25:06 : *************************************************
+2018-02-12 21:25:06 : * * * * * * 01_Demo_a
+2018-02-12 21:25:06 : *************************************************
+2018-02-12 21:25:06 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:25:06 : Step Name   : [MainPage] Click User
+2018-02-12 21:25:09 : Test Status : PASSED
+2018-02-12 21:25:09 : Test Data   : Clicked
+2018-02-12 21:25:09 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:25:09 : Step Name   : [MainPage] Click Register
+2018-02-12 21:25:11 : Test Status : FAILED
+2018-02-12 21:25:11 : Test Data   : Clicked
+2018-02-12 21:25:11 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:25:11 : Step Name   : [Register] 
+2018-02-12 21:25:13 : Test Status : FAILED
+2018-02-12 21:25:13 : Test Data   : siauhui1
+2018-02-12 21:25:13 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:25:13 : Step Name   : [Register] 
+2018-02-12 21:25:15 : Test Status : FAILED
+2018-02-12 21:25:15 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:25:15 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:25:15 : Step Name   : [Register] 
+2018-02-12 21:25:16 : Test Status : FAILED
+2018-02-12 21:25:16 : Test Data   : Password1
+2018-02-12 21:25:16 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:25:16 : Step Name   : [Register] 
+2018-02-12 21:25:18 : Test Status : FAILED
+2018-02-12 21:25:18 : Test Data   : Password1
+2018-02-12 21:25:18 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:25:18 : Step Name   : [Register] 
+2018-02-12 21:25:20 : Test Status : FAILED
+2018-02-12 21:25:20 : Test Data   : Lee
+2018-02-12 21:25:20 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:25:20 : Step Name   : [Register] 
+2018-02-12 21:25:21 : Test Status : FAILED
+2018-02-12 21:25:21 : Test Data   : Siau Hui
+2018-02-12 21:25:21 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:25:21 : Step Name   : [Register] 
+2018-02-12 21:25:22 : Test Status : FAILED
+2018-02-12 21:25:22 : Test Data   : 016-3931808
+2018-02-12 21:25:22 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:25:23 : Step Name   : [Register] 
+2018-02-12 21:25:24 : Test Status : FAILED
+2018-02-12 21:25:24 : Test Data   : Malaysia
+2018-02-12 21:25:24 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 21:25:24 : Step Name   : [Register] 
+2018-02-12 21:25:26 : Test Status : FAILED
+2018-02-12 21:25:26 : Test Data   : 11,Jln Bangsar
+2018-02-12 21:25:26 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 21:25:26 : Step Name   : [Register] 
+2018-02-12 21:25:27 : Test Status : FAILED
+2018-02-12 21:25:27 : Test Data   : PJ
+2018-02-12 21:25:27 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 21:25:27 : Step Name   : [Register] 
+2018-02-12 21:25:29 : Test Status : FAILED
+2018-02-12 21:25:29 : Test Data   : 51200
+2018-02-12 21:25:29 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 21:25:29 : Step Name   : [Register] 
+2018-02-12 21:25:31 : Test Status : FAILED
+2018-02-12 21:25:31 : Test Data   : On
+2018-02-12 21:25:31 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 21:25:31 : Step Name   : [Register] 
+2018-02-12 21:25:33 : Test Status : FAILED
+2018-02-12 21:25:33 : Test Data   : Clicked
+2018-02-12 21:26:14 : *************************************************
+2018-02-12 21:26:14 : * * * * * * 01_Demo_a
+2018-02-12 21:26:14 : *************************************************
+2018-02-12 21:26:14 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:26:14 : Step Name   : [MainPage] Click User
+2018-02-12 21:26:17 : Test Status : PASSED
+2018-02-12 21:26:17 : Test Data   : Clicked
+2018-02-12 21:26:17 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:26:17 : Step Name   : [MainPage] Click Register
+2018-02-12 21:26:23 : Test Status : FAILED
+2018-02-12 21:26:23 : Test Data   : Clicked
+2018-02-12 21:26:23 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:26:23 : Step Name   : [Register] 
+2018-02-12 21:26:29 : Test Status : FAILED
+2018-02-12 21:26:29 : Test Data   : siauhui1
+2018-02-12 21:26:29 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:26:29 : Step Name   : [Register] 
+2018-02-12 21:26:34 : Test Status : FAILED
+2018-02-12 21:26:34 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:26:34 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:26:34 : Step Name   : [Register] 
+2018-02-12 21:26:40 : Test Status : FAILED
+2018-02-12 21:26:40 : Test Data   : Password1
+2018-02-12 21:26:40 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:26:40 : Step Name   : [Register] 
+2018-02-12 21:26:45 : Test Status : FAILED
+2018-02-12 21:26:46 : Test Data   : Password1
+2018-02-12 21:26:46 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:26:46 : Step Name   : [Register] 
+2018-02-12 21:26:52 : Test Status : FAILED
+2018-02-12 21:26:52 : Test Data   : Lee
+2018-02-12 21:26:52 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:26:52 : Step Name   : [Register] 
+2018-02-12 21:26:57 : Test Status : FAILED
+2018-02-12 21:26:57 : Test Data   : Siau Hui
+2018-02-12 21:26:57 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:26:57 : Step Name   : [Register] 
+2018-02-12 21:27:02 : Test Status : FAILED
+2018-02-12 21:27:02 : Test Data   : 016-3931808
+2018-02-12 21:27:02 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:27:02 : Step Name   : [Register] 
+2018-02-12 21:27:08 : Test Status : FAILED
+2018-02-12 21:27:08 : Test Data   : Malaysia
+2018-02-12 21:27:08 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 21:27:08 : Step Name   : [Register] 
+2018-02-12 21:27:14 : Test Status : FAILED
+2018-02-12 21:27:14 : Test Data   : 11,Jln Bangsar
+2018-02-12 21:27:14 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 21:27:14 : Step Name   : [Register] 
+2018-02-12 21:27:21 : Test Status : FAILED
+2018-02-12 21:27:21 : Test Data   : PJ
+2018-02-12 21:27:21 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 21:27:21 : Step Name   : [Register] 
+2018-02-12 21:27:27 : Test Status : FAILED
+2018-02-12 21:27:27 : Test Data   : 51200
+2018-02-12 21:27:27 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 21:27:27 : Step Name   : [Register] 
+2018-02-12 21:27:32 : Test Status : FAILED
+2018-02-12 21:27:32 : Test Data   : On
+2018-02-12 21:27:32 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 21:27:32 : Step Name   : [Register] 
+2018-02-12 21:27:38 : Test Status : FAILED
+2018-02-12 21:27:38 : Test Data   : Clicked
+2018-02-12 21:32:07 : *************************************************
+2018-02-12 21:32:07 : * * * * * * 01_Demo_a
+2018-02-12 21:32:07 : *************************************************
+2018-02-12 21:32:07 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [MainPage] Click User
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : Clicked
+2018-02-12 21:32:07 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [MainPage] Click Register
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : Clicked
+2018-02-12 21:32:07 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : siauhui1
+2018-02-12 21:32:07 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:32:07 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : Password1
+2018-02-12 21:32:07 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : Password1
+2018-02-12 21:32:07 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : Lee
+2018-02-12 21:32:07 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : Siau Hui
+2018-02-12 21:32:07 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:07 : Test Status : FAILED
+2018-02-12 21:32:07 : Test Data   : 016-3931808
+2018-02-12 21:32:07 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:32:07 : Step Name   : [Register] 
+2018-02-12 21:32:08 : Test Status : FAILED
+2018-02-12 21:32:08 : Test Data   : Malaysia
+2018-02-12 21:32:08 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 21:32:08 : Step Name   : [Register] 
+2018-02-12 21:32:08 : Test Status : FAILED
+2018-02-12 21:32:08 : Test Data   : 11,Jln Bangsar
+2018-02-12 21:32:08 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 21:32:08 : Step Name   : [Register] 
+2018-02-12 21:32:08 : Test Status : FAILED
+2018-02-12 21:32:08 : Test Data   : PJ
+2018-02-12 21:32:08 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 21:32:08 : Step Name   : [Register] 
+2018-02-12 21:32:08 : Test Status : FAILED
+2018-02-12 21:32:08 : Test Data   : 51200
+2018-02-12 21:32:08 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 21:32:08 : Step Name   : [Register] 
+2018-02-12 21:32:08 : Test Status : FAILED
+2018-02-12 21:32:08 : Test Data   : On
+2018-02-12 21:32:08 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 21:32:08 : Step Name   : [Register] 
+2018-02-12 21:32:08 : Test Status : FAILED
+2018-02-12 21:32:08 : Test Data   : Clicked
+2018-02-12 21:33:00 : *************************************************
+2018-02-12 21:33:00 : * * * * * * 01_Demo_a
+2018-02-12 21:33:00 : *************************************************
+2018-02-12 21:33:00 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:33:00 : Step Name   : [MainPage] Click User
+2018-02-12 21:33:03 : Test Status : PASSED
+2018-02-12 21:33:03 : Test Data   : Clicked
+2018-02-12 21:33:03 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:33:03 : Step Name   : [MainPage] Click Register
+2018-02-12 21:33:08 : Test Status : FAILED
+2018-02-12 21:33:08 : Test Data   : Clicked
+2018-02-12 21:33:08 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:33:08 : Step Name   : [Register] 
+2018-02-12 21:33:14 : Test Status : FAILED
+2018-02-12 21:33:14 : Test Data   : siauhui1
+2018-02-12 21:33:14 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:33:14 : Step Name   : [Register] 
+2018-02-12 21:33:19 : Test Status : FAILED
+2018-02-12 21:33:19 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:33:19 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:33:19 : Step Name   : [Register] 
+2018-02-12 21:33:25 : Test Status : FAILED
+2018-02-12 21:33:25 : Test Data   : Password1
+2018-02-12 21:33:25 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:33:25 : Step Name   : [Register] 
+2018-02-12 21:33:30 : Test Status : FAILED
+2018-02-12 21:33:30 : Test Data   : Password1
+2018-02-12 21:33:30 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:33:30 : Step Name   : [Register] 
+2018-02-12 21:33:36 : Test Status : FAILED
+2018-02-12 21:33:36 : Test Data   : Lee
+2018-02-12 21:33:36 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:33:36 : Step Name   : [Register] 
+2018-02-12 21:33:41 : Test Status : FAILED
+2018-02-12 21:33:41 : Test Data   : Siau Hui
+2018-02-12 21:33:41 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:33:41 : Step Name   : [Register] 
+2018-02-12 21:33:47 : Test Status : FAILED
+2018-02-12 21:33:47 : Test Data   : 016-3931808
+2018-02-12 21:33:47 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:33:47 : Step Name   : [Register] 
+2018-02-12 21:33:52 : Test Status : FAILED
+2018-02-12 21:33:52 : Test Data   : Malaysia
+2018-02-12 21:33:52 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 21:33:52 : Step Name   : [Register] 
+2018-02-12 21:33:57 : Test Status : FAILED
+2018-02-12 21:33:57 : Test Data   : 11,Jln Bangsar
+2018-02-12 21:33:57 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 21:33:57 : Step Name   : [Register] 
+2018-02-12 21:34:03 : Test Status : FAILED
+2018-02-12 21:34:03 : Test Data   : PJ
+2018-02-12 21:34:03 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 21:34:03 : Step Name   : [Register] 
+2018-02-12 21:34:08 : Test Status : FAILED
+2018-02-12 21:34:08 : Test Data   : 51200
+2018-02-12 21:34:08 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 21:34:08 : Step Name   : [Register] 
+2018-02-12 21:34:14 : Test Status : FAILED
+2018-02-12 21:34:14 : Test Data   : On
+2018-02-12 21:34:14 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 21:34:14 : Step Name   : [Register] 
+2018-02-12 21:34:19 : Test Status : FAILED
+2018-02-12 21:34:19 : Test Data   : Clicked
+2018-02-12 21:34:56 : *************************************************
+2018-02-12 21:34:56 : * * * * * * 01_Demo_a
+2018-02-12 21:34:56 : *************************************************
+2018-02-12 21:34:56 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:34:56 : Step Name   : [MainPage] Click User
+2018-02-12 21:34:59 : Test Status : PASSED
+2018-02-12 21:34:59 : Test Data   : Clicked
+2018-02-12 21:34:59 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:34:59 : Step Name   : [MainPage] Click Register
+2018-02-12 21:35:10 : Test Status : FAILED
+2018-02-12 21:35:10 : Test Data   : Clicked
+2018-02-12 21:35:10 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:35:10 : Step Name   : [Register] 
+2018-02-12 21:35:20 : Test Status : FAILED
+2018-02-12 21:35:20 : Test Data   : siauhui1
+2018-02-12 21:35:20 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:35:20 : Step Name   : [Register] 
+2018-02-12 21:35:31 : Test Status : FAILED
+2018-02-12 21:35:31 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:35:31 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:35:31 : Step Name   : [Register] 
+2018-02-12 21:35:41 : Test Status : FAILED
+2018-02-12 21:35:41 : Test Data   : Password1
+2018-02-12 21:35:41 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:35:42 : Step Name   : [Register] 
+2018-02-12 21:35:53 : Test Status : FAILED
+2018-02-12 21:35:53 : Test Data   : Password1
+2018-02-12 21:35:53 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:35:53 : Step Name   : [Register] 
+2018-02-12 21:36:03 : Test Status : FAILED
+2018-02-12 21:36:03 : Test Data   : Lee
+2018-02-12 21:36:03 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:36:03 : Step Name   : [Register] 
+2018-02-12 21:39:47 : *************************************************
+2018-02-12 21:39:47 : * * * * * * 01_Demo_a
+2018-02-12 21:39:47 : *************************************************
+2018-02-12 21:39:47 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:39:47 : Step Name   : [MainPage] Click User
+2018-02-12 21:39:50 : Test Status : PASSED
+2018-02-12 21:39:50 : Test Data   : Clicked
+2018-02-12 21:39:50 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:39:50 : Step Name   : [MainPage] Click Register
+2018-02-12 21:40:16 : Test Status : PASSED
+2018-02-12 21:40:16 : Test Data   : Clicked
+2018-02-12 21:40:16 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:40:16 : Step Name   : [Register] 
+2018-02-12 21:52:30 : *************************************************
+2018-02-12 21:52:30 : * * * * * * 01_Demo_a
+2018-02-12 21:52:30 : *************************************************
+2018-02-12 21:52:30 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:52:30 : Step Name   : [MainPage] Click User
+2018-02-12 21:52:33 : Test Status : PASSED
+2018-02-12 21:52:33 : Test Data   : Clicked
+2018-02-12 21:52:33 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:52:33 : Step Name   : [MainPage] Click Register
+2018-02-12 21:52:39 : Test Status : FAILED
+2018-02-12 21:52:39 : Test Data   : Clicked
+2018-02-12 21:52:39 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:52:39 : Step Name   : [Register] 
+2018-02-12 21:52:45 : Test Status : FAILED
+2018-02-12 21:52:45 : Test Data   : siauhui1
+2018-02-12 21:52:45 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:52:45 : Step Name   : [Register] 
+2018-02-12 21:52:50 : Test Status : FAILED
+2018-02-12 21:52:50 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:52:50 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:52:50 : Step Name   : [Register] 
+2018-02-12 21:52:56 : Test Status : FAILED
+2018-02-12 21:52:56 : Test Data   : Password1
+2018-02-12 21:52:56 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:52:56 : Step Name   : [Register] 
+2018-02-12 21:53:02 : Test Status : FAILED
+2018-02-12 21:53:02 : Test Data   : Password1
+2018-02-12 21:53:02 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:53:02 : Step Name   : [Register] 
+2018-02-12 21:53:08 : Test Status : FAILED
+2018-02-12 21:53:08 : Test Data   : Lee
+2018-02-12 21:53:08 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 21:53:08 : Step Name   : [Register] 
+2018-02-12 21:53:14 : Test Status : FAILED
+2018-02-12 21:53:14 : Test Data   : Siau Hui
+2018-02-12 21:53:14 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 21:53:14 : Step Name   : [Register] 
+2018-02-12 21:53:19 : Test Status : FAILED
+2018-02-12 21:53:19 : Test Data   : 016-3931808
+2018-02-12 21:53:19 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 21:53:19 : Step Name   : [Register] 
+2018-02-12 21:54:43 : *************************************************
+2018-02-12 21:54:43 : * * * * * * 01_Demo_a
+2018-02-12 21:54:43 : *************************************************
+2018-02-12 21:54:43 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:54:43 : Step Name   : [MainPage] Click User
+2018-02-12 21:54:46 : Test Status : PASSED
+2018-02-12 21:54:46 : Test Data   : Clicked
+2018-02-12 21:54:46 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:54:46 : Step Name   : [MainPage] Click Register
+2018-02-12 21:55:01 : Test Status : FAILED
+2018-02-12 21:55:01 : Test Data   : Clicked
+2018-02-12 21:55:01 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:55:01 : Step Name   : [Register] 
+2018-02-12 21:55:17 : Test Status : FAILED
+2018-02-12 21:55:17 : Test Data   : siauhui1
+2018-02-12 21:55:17 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:55:17 : Step Name   : [Register] 
+2018-02-12 21:58:04 : *************************************************
+2018-02-12 21:58:04 : * * * * * * 01_Demo_a
+2018-02-12 21:58:04 : *************************************************
+2018-02-12 21:58:04 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 21:58:04 : Step Name   : [MainPage] Click User
+2018-02-12 21:58:07 : Test Status : PASSED
+2018-02-12 21:58:07 : Test Data   : Clicked
+2018-02-12 21:58:07 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 21:58:07 : Step Name   : [MainPage] Click Register
+2018-02-12 21:58:23 : Test Status : FAILED
+2018-02-12 21:58:23 : Test Data   : Clicked
+2018-02-12 21:58:23 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 21:58:23 : Step Name   : [Register] 
+2018-02-12 21:58:39 : Test Status : FAILED
+2018-02-12 21:58:39 : Test Data   : siauhui1
+2018-02-12 21:58:39 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 21:58:39 : Step Name   : [Register] 
+2018-02-12 21:58:54 : Test Status : FAILED
+2018-02-12 21:58:54 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 21:58:54 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 21:58:54 : Step Name   : [Register] 
+2018-02-12 21:59:10 : Test Status : FAILED
+2018-02-12 21:59:10 : Test Data   : Password1
+2018-02-12 21:59:10 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 21:59:10 : Step Name   : [Register] 
+2018-02-12 21:59:26 : Test Status : FAILED
+2018-02-12 21:59:26 : Test Data   : Password1
+2018-02-12 21:59:26 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 21:59:26 : Step Name   : [Register] 
+2018-02-12 22:00:45 : *************************************************
+2018-02-12 22:00:45 : * * * * * * 01_Demo_a
+2018-02-12 22:00:45 : *************************************************
+2018-02-12 22:00:45 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:00:46 : Step Name   : [MainPage] Click User
+2018-02-12 22:00:48 : Test Status : PASSED
+2018-02-12 22:00:48 : Test Data   : Clicked
+2018-02-12 22:00:48 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:00:48 : Step Name   : [MainPage] Click Register
+2018-02-12 22:00:54 : Test Status : FAILED
+2018-02-12 22:00:54 : Test Data   : Clicked
+2018-02-12 22:00:54 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:00:54 : Step Name   : [Register] 
+2018-02-12 22:01:00 : Test Status : FAILED
+2018-02-12 22:01:00 : Test Data   : siauhui1
+2018-02-12 22:01:00 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:01:00 : Step Name   : [Register] 
+2018-02-12 22:01:06 : Test Status : FAILED
+2018-02-12 22:01:06 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:01:06 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:01:06 : Step Name   : [Register] 
+2018-02-12 22:01:12 : Test Status : FAILED
+2018-02-12 22:01:12 : Test Data   : Password1
+2018-02-12 22:01:12 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:01:12 : Step Name   : [Register] 
+2018-02-12 22:01:18 : Test Status : FAILED
+2018-02-12 22:01:18 : Test Data   : Password1
+2018-02-12 22:01:18 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:01:18 : Step Name   : [Register] 
+2018-02-12 22:01:24 : Test Status : FAILED
+2018-02-12 22:01:24 : Test Data   : Lee
+2018-02-12 22:01:24 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:01:24 : Step Name   : [Register] 
+2018-02-12 22:01:30 : Test Status : FAILED
+2018-02-12 22:01:30 : Test Data   : Siau Hui
+2018-02-12 22:01:30 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:01:30 : Step Name   : [Register] 
+2018-02-12 22:01:35 : Test Status : FAILED
+2018-02-12 22:01:35 : Test Data   : 016-3931808
+2018-02-12 22:01:35 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:01:35 : Step Name   : [Register] 
+2018-02-12 22:01:42 : Test Status : FAILED
+2018-02-12 22:01:42 : Test Data   : Malaysia
+2018-02-12 22:01:42 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:01:42 : Step Name   : [Register] 
+2018-02-12 22:01:47 : Test Status : FAILED
+2018-02-12 22:01:48 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:01:48 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:01:48 : Step Name   : [Register] 
+2018-02-12 22:01:53 : Test Status : FAILED
+2018-02-12 22:01:53 : Test Data   : PJ
+2018-02-12 22:01:53 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 22:01:53 : Step Name   : [Register] 
+2018-02-12 22:01:59 : Test Status : FAILED
+2018-02-12 22:01:59 : Test Data   : 51200
+2018-02-12 22:01:59 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 22:01:59 : Step Name   : [Register] 
+2018-02-12 22:02:04 : Test Status : FAILED
+2018-02-12 22:02:04 : Test Data   : On
+2018-02-12 22:02:04 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 22:02:04 : Step Name   : [Register] 
+2018-02-12 22:02:09 : Test Status : FAILED
+2018-02-12 22:02:09 : Test Data   : Clicked
+2018-02-12 22:05:39 : *************************************************
+2018-02-12 22:05:39 : * * * * * * 01_Demo_a
+2018-02-12 22:05:39 : *************************************************
+2018-02-12 22:05:40 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:05:40 : Step Name   : [MainPage] Click User
+2018-02-12 22:05:42 : Test Status : PASSED
+2018-02-12 22:05:42 : Test Data   : Clicked
+2018-02-12 22:05:42 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:05:42 : Step Name   : [MainPage] Click Register
+2018-02-12 22:05:48 : Test Status : FAILED
+2018-02-12 22:05:48 : Test Data   : Clicked
+2018-02-12 22:05:48 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:05:48 : Step Name   : [Register] 
+2018-02-12 22:05:49 : Test Status : FAILED
+2018-02-12 22:05:49 : Test Data   : siauhui1
+2018-02-12 22:05:49 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:05:49 : Step Name   : [Register] 
+2018-02-12 22:05:49 : Test Status : FAILED
+2018-02-12 22:05:49 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:05:49 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:05:49 : Step Name   : [Register] 
+2018-02-12 22:05:50 : Test Status : FAILED
+2018-02-12 22:05:50 : Test Data   : Password1
+2018-02-12 22:05:50 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:05:50 : Step Name   : [Register] 
+2018-02-12 22:05:50 : Test Status : FAILED
+2018-02-12 22:05:51 : Test Data   : Password1
+2018-02-12 22:05:51 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:05:51 : Step Name   : [Register] 
+2018-02-12 22:05:51 : Test Status : FAILED
+2018-02-12 22:05:51 : Test Data   : Lee
+2018-02-12 22:05:51 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:05:51 : Step Name   : [Register] 
+2018-02-12 22:05:52 : Test Status : FAILED
+2018-02-12 22:05:52 : Test Data   : Siau Hui
+2018-02-12 22:05:52 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:05:52 : Step Name   : [Register] 
+2018-02-12 22:05:52 : Test Status : FAILED
+2018-02-12 22:05:52 : Test Data   : 016-3931808
+2018-02-12 22:05:53 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:05:53 : Step Name   : [Register] 
+2018-02-12 22:05:53 : Test Status : FAILED
+2018-02-12 22:05:53 : Test Data   : Malaysia
+2018-02-12 22:05:53 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:05:53 : Step Name   : [Register] 
+2018-02-12 22:05:54 : Test Status : FAILED
+2018-02-12 22:05:54 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:05:54 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:05:54 : Step Name   : [Register] 
+2018-02-12 22:05:54 : Test Status : FAILED
+2018-02-12 22:05:54 : Test Data   : PJ
+2018-02-12 22:05:54 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 22:05:54 : Step Name   : [Register] 
+2018-02-12 22:05:56 : Test Status : FAILED
+2018-02-12 22:05:56 : Test Data   : 51200
+2018-02-12 22:05:56 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 22:05:56 : Step Name   : [Register] 
+2018-02-12 22:05:56 : Test Status : FAILED
+2018-02-12 22:05:56 : Test Data   : On
+2018-02-12 22:05:56 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 22:05:56 : Step Name   : [Register] 
+2018-02-12 22:05:57 : Test Status : FAILED
+2018-02-12 22:05:57 : Test Data   : Clicked
+2018-02-12 22:12:07 : *************************************************
+2018-02-12 22:12:07 : * * * * * * 01_Demo_a
+2018-02-12 22:12:07 : *************************************************
+2018-02-12 22:12:07 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:12:07 : Step Name   : [MainPage] Click User
+2018-02-12 22:12:10 : Test Status : PASSED
+2018-02-12 22:12:10 : Test Data   : Clicked
+2018-02-12 22:12:10 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:12:10 : Step Name   : [MainPage] Click Register
+2018-02-12 22:12:16 : Test Status : FAILED
+2018-02-12 22:12:16 : Test Data   : Clicked
+2018-02-12 22:12:16 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:12:16 : Step Name   : [Register] 
+2018-02-12 22:12:16 : Test Status : FAILED
+2018-02-12 22:12:16 : Test Data   : siauhui1
+2018-02-12 22:12:16 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:12:16 : Step Name   : [Register] 
+2018-02-12 22:12:17 : Test Status : FAILED
+2018-02-12 22:12:17 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:12:17 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:12:17 : Step Name   : [Register] 
+2018-02-12 22:12:18 : Test Status : FAILED
+2018-02-12 22:12:18 : Test Data   : Password1
+2018-02-12 22:12:18 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:12:18 : Step Name   : [Register] 
+2018-02-12 22:12:18 : Test Status : FAILED
+2018-02-12 22:12:18 : Test Data   : Password1
+2018-02-12 22:12:18 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:12:18 : Step Name   : [Register] 
+2018-02-12 22:12:19 : Test Status : FAILED
+2018-02-12 22:12:19 : Test Data   : Lee
+2018-02-12 22:12:19 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:12:19 : Step Name   : [Register] 
+2018-02-12 22:12:19 : Test Status : FAILED
+2018-02-12 22:12:19 : Test Data   : Siau Hui
+2018-02-12 22:12:19 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:12:19 : Step Name   : [Register] 
+2018-02-12 22:12:20 : Test Status : FAILED
+2018-02-12 22:12:20 : Test Data   : 016-3931808
+2018-02-12 22:12:20 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:12:20 : Step Name   : [Register] 
+2018-02-12 22:12:20 : Test Status : FAILED
+2018-02-12 22:12:20 : Test Data   : Malaysia
+2018-02-12 22:12:20 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:12:20 : Step Name   : [Register] 
+2018-02-12 22:12:21 : Test Status : FAILED
+2018-02-12 22:12:21 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:12:21 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:12:21 : Step Name   : [Register] 
+2018-02-12 22:12:22 : Test Status : FAILED
+2018-02-12 22:12:22 : Test Data   : PJ
+2018-02-12 22:12:22 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 22:12:22 : Step Name   : [Register] 
+2018-02-12 22:12:22 : Test Status : FAILED
+2018-02-12 22:12:22 : Test Data   : 51200
+2018-02-12 22:12:22 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 22:12:22 : Step Name   : [Register] 
+2018-02-12 22:12:23 : Test Status : FAILED
+2018-02-12 22:12:23 : Test Data   : On
+2018-02-12 22:12:23 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 22:12:24 : Step Name   : [Register] 
+2018-02-12 22:12:25 : Test Status : FAILED
+2018-02-12 22:12:25 : Test Data   : Clicked
+2018-02-12 22:17:37 : *************************************************
+2018-02-12 22:17:38 : * * * * * * 01_Demo_a
+2018-02-12 22:17:38 : *************************************************
+2018-02-12 22:17:39 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:17:39 : Step Name   : [MainPage] Click User
+2018-02-12 22:17:40 : Test Status : FAILED
+2018-02-12 22:17:41 : Test Data   : Clicked
+2018-02-12 22:17:42 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:17:42 : Step Name   : [MainPage] Click Register
+2018-02-12 22:17:43 : Test Status : FAILED
+2018-02-12 22:17:43 : Test Data   : Clicked
+2018-02-12 22:17:44 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:17:44 : Step Name   : [Register] 
+2018-02-12 22:17:45 : Test Status : FAILED
+2018-02-12 22:17:46 : Test Data   : siauhui1
+2018-02-12 22:17:47 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:17:47 : Step Name   : [Register] 
+2018-02-12 22:17:48 : Test Status : FAILED
+2018-02-12 22:17:49 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:17:50 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:17:50 : Step Name   : [Register] 
+2018-02-12 22:17:52 : Test Status : FAILED
+2018-02-12 22:17:52 : Test Data   : Password1
+2018-02-12 22:17:53 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:17:54 : Step Name   : [Register] 
+2018-02-12 22:17:55 : Test Status : FAILED
+2018-02-12 22:17:56 : Test Data   : Password1
+2018-02-12 22:17:57 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:17:57 : Step Name   : [Register] 
+2018-02-12 22:17:58 : Test Status : FAILED
+2018-02-12 22:17:59 : Test Data   : Lee
+2018-02-12 22:18:00 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:18:00 : Step Name   : [Register] 
+2018-02-12 22:18:00 : Test Status : FAILED
+2018-02-12 22:18:00 : Test Data   : Siau Hui
+2018-02-12 22:18:00 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:18:00 : Step Name   : [Register] 
+2018-02-12 22:18:01 : Test Status : FAILED
+2018-02-12 22:18:01 : Test Data   : 016-3931808
+2018-02-12 22:18:01 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:18:01 : Step Name   : [Register] 
+2018-02-12 22:18:02 : Test Status : FAILED
+2018-02-12 22:18:02 : Test Data   : Malaysia
+2018-02-12 22:18:02 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:18:02 : Step Name   : [Register] 
+2018-02-12 22:18:03 : Test Status : FAILED
+2018-02-12 22:18:03 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:18:03 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:18:03 : Step Name   : [Register] 
+2018-02-12 22:33:03 : *************************************************
+2018-02-12 22:33:03 : * * * * * * 01_Demo_a
+2018-02-12 22:33:03 : *************************************************
+2018-02-12 22:33:03 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:33:03 : Step Name   : [MainPage] Click User
+2018-02-12 22:33:04 : Test Status : FAILED
+2018-02-12 22:33:04 : Test Data   : Clicked
+2018-02-12 22:33:04 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:33:04 : Step Name   : [MainPage] Click Register
+2018-02-12 22:33:04 : Test Status : FAILED
+2018-02-12 22:33:04 : Test Data   : Clicked
+2018-02-12 22:33:04 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:33:04 : Step Name   : [Register] 
+2018-02-12 22:33:05 : Test Status : FAILED
+2018-02-12 22:33:05 : Test Data   : siauhui1
+2018-02-12 22:33:05 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:33:05 : Step Name   : [Register] 
+2018-02-12 22:33:05 : Test Status : FAILED
+2018-02-12 22:33:06 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:33:06 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:33:06 : Step Name   : [Register] 
+2018-02-12 22:33:06 : Test Status : FAILED
+2018-02-12 22:33:06 : Test Data   : Password1
+2018-02-12 22:33:06 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:33:06 : Step Name   : [Register] 
+2018-02-12 22:33:07 : Test Status : FAILED
+2018-02-12 22:33:07 : Test Data   : Password1
+2018-02-12 22:33:07 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:33:07 : Step Name   : [Register] 
+2018-02-12 22:33:08 : Test Status : FAILED
+2018-02-12 22:33:08 : Test Data   : Lee
+2018-02-12 22:33:08 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:33:08 : Step Name   : [Register] 
+2018-02-12 22:33:09 : Test Status : FAILED
+2018-02-12 22:33:09 : Test Data   : Siau Hui
+2018-02-12 22:33:09 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:33:09 : Step Name   : [Register] 
+2018-02-12 22:33:09 : Test Status : FAILED
+2018-02-12 22:33:09 : Test Data   : 016-3931808
+2018-02-12 22:33:09 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:33:09 : Step Name   : [Register] 
+2018-02-12 22:33:10 : Test Status : FAILED
+2018-02-12 22:33:10 : Test Data   : Malaysia
+2018-02-12 22:33:10 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:33:10 : Step Name   : [Register] 
+2018-02-12 22:33:11 : Test Status : FAILED
+2018-02-12 22:33:11 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:33:11 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:33:11 : Step Name   : [Register] 
+2018-02-12 22:33:11 : Test Status : FAILED
+2018-02-12 22:33:11 : Test Data   : PJ
+2018-02-12 22:33:11 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 22:33:11 : Step Name   : [Register] 
+2018-02-12 22:33:12 : Test Status : FAILED
+2018-02-12 22:33:12 : Test Data   : 51200
+2018-02-12 22:33:12 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 22:33:12 : Step Name   : [Register] 
+2018-02-12 22:33:13 : Test Status : FAILED
+2018-02-12 22:33:13 : Test Data   : On
+2018-02-12 22:33:13 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 22:33:13 : Step Name   : [Register] 
+2018-02-12 22:33:13 : Test Status : FAILED
+2018-02-12 22:33:13 : Test Data   : Clicked
+2018-02-12 22:50:14 : *************************************************
+2018-02-12 22:50:14 : * * * * * * 01_Demo_a
+2018-02-12 22:50:14 : *************************************************
+2018-02-12 22:50:14 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:50:14 : Step Name   : [MainPage] Click User
+2018-02-12 22:50:17 : Test Status : PASSED
+2018-02-12 22:50:17 : Test Data   : Clicked
+2018-02-12 22:50:17 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:50:17 : Step Name   : [MainPage] Click Register
+2018-02-12 22:50:23 : Test Status : FAILED
+2018-02-12 22:50:23 : Test Data   : Clicked
+2018-02-12 22:50:23 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:50:23 : Step Name   : [Register] 
+2018-02-12 22:50:23 : Test Status : FAILED
+2018-02-12 22:50:23 : Test Data   : siauhui1
+2018-02-12 22:50:23 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:50:23 : Step Name   : [Register] 
+2018-02-12 22:50:24 : Test Status : FAILED
+2018-02-12 22:50:24 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:50:24 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:50:24 : Step Name   : [Register] 
+2018-02-12 22:50:24 : Test Status : FAILED
+2018-02-12 22:50:24 : Test Data   : Password1
+2018-02-12 22:50:24 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:50:25 : Step Name   : [Register] 
+2018-02-12 22:50:25 : Test Status : FAILED
+2018-02-12 22:50:25 : Test Data   : Password1
+2018-02-12 22:50:25 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:50:25 : Step Name   : [Register] 
+2018-02-12 22:50:26 : Test Status : FAILED
+2018-02-12 22:50:26 : Test Data   : Lee
+2018-02-12 22:50:26 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:50:26 : Step Name   : [Register] 
+2018-02-12 22:50:27 : Test Status : FAILED
+2018-02-12 22:50:27 : Test Data   : Siau Hui
+2018-02-12 22:50:27 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:50:27 : Step Name   : [Register] 
+2018-02-12 22:50:27 : Test Status : FAILED
+2018-02-12 22:50:51 : *************************************************
+2018-02-12 22:50:51 : * * * * * * 01_Demo_a
+2018-02-12 22:50:51 : *************************************************
+2018-02-12 22:50:51 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:50:51 : Step Name   : [MainPage] Click User
+2018-02-12 22:50:54 : Test Status : PASSED
+2018-02-12 22:50:54 : Test Data   : Clicked
+2018-02-12 22:50:54 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:50:54 : Step Name   : [MainPage] Click Register
+2018-02-12 22:51:00 : Test Status : FAILED
+2018-02-12 22:51:00 : Test Data   : Clicked
+2018-02-12 22:51:00 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:51:00 : Step Name   : [Register] 
+2018-02-12 22:51:01 : Test Status : FAILED
+2018-02-12 22:51:01 : Test Data   : siauhui1
+2018-02-12 22:51:01 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:51:01 : Step Name   : [Register] 
+2018-02-12 22:51:02 : Test Status : FAILED
+2018-02-12 22:51:02 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:51:02 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:51:02 : Step Name   : [Register] 
+2018-02-12 22:51:02 : Test Status : FAILED
+2018-02-12 22:51:02 : Test Data   : Password1
+2018-02-12 22:51:02 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:51:02 : Step Name   : [Register] 
+2018-02-12 22:51:03 : Test Status : FAILED
+2018-02-12 22:51:03 : Test Data   : Password1
+2018-02-12 22:51:03 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:51:03 : Step Name   : [Register] 
+2018-02-12 22:51:03 : Test Status : FAILED
+2018-02-12 22:51:03 : Test Data   : Lee
+2018-02-12 22:51:03 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:51:03 : Step Name   : [Register] 
+2018-02-12 22:51:04 : Test Status : FAILED
+2018-02-12 22:51:04 : Test Data   : Siau Hui
+2018-02-12 22:51:04 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:51:04 : Step Name   : [Register] 
+2018-02-12 22:51:05 : Test Status : FAILED
+2018-02-12 22:51:05 : Test Data   : 016-3931808
+2018-02-12 22:51:05 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:51:05 : Step Name   : [Register] 
+2018-02-12 22:51:05 : Test Status : FAILED
+2018-02-12 22:51:05 : Test Data   : Malaysia
+2018-02-12 22:51:05 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:51:05 : Step Name   : [Register] 
+2018-02-12 22:51:06 : Test Status : FAILED
+2018-02-12 22:51:06 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:51:06 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:51:06 : Step Name   : [Register] 
+2018-02-12 22:51:07 : Test Status : FAILED
+2018-02-12 22:51:07 : Test Data   : PJ
+2018-02-12 22:51:07 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 22:51:07 : Step Name   : [Register] 
+2018-02-12 22:51:08 : Test Status : FAILED
+2018-02-12 22:51:08 : Test Data   : 51200
+2018-02-12 22:51:08 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 22:51:08 : Step Name   : [Register] 
+2018-02-12 22:51:08 : Test Status : FAILED
+2018-02-12 22:51:08 : Test Data   : On
+2018-02-12 22:51:09 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 22:51:09 : Step Name   : [Register] 
+2018-02-12 22:51:09 : Test Status : FAILED
+2018-02-12 22:51:09 : Test Data   : Clicked
+2018-02-12 22:52:54 : *************************************************
+2018-02-12 22:52:54 : * * * * * * 01_Demo_a
+2018-02-12 22:52:54 : *************************************************
+2018-02-12 22:52:55 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 22:52:55 : Step Name   : [MainPage] Click User
+2018-02-12 22:52:57 : Test Status : PASSED
+2018-02-12 22:52:57 : Test Data   : Clicked
+2018-02-12 22:52:58 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 22:52:58 : Step Name   : [MainPage] Click Register
+2018-02-12 22:53:03 : Test Status : FAILED
+2018-02-12 22:53:03 : Test Data   : Clicked
+2018-02-12 22:53:03 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 22:53:03 : Step Name   : [Register] 
+2018-02-12 22:53:04 : Test Status : FAILED
+2018-02-12 22:53:04 : Test Data   : siauhui1
+2018-02-12 22:53:04 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 22:53:04 : Step Name   : [Register] 
+2018-02-12 22:53:04 : Test Status : FAILED
+2018-02-12 22:53:05 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 22:53:05 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 22:53:05 : Step Name   : [Register] 
+2018-02-12 22:53:05 : Test Status : FAILED
+2018-02-12 22:53:05 : Test Data   : Password1
+2018-02-12 22:53:05 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 22:53:05 : Step Name   : [Register] 
+2018-02-12 22:53:06 : Test Status : FAILED
+2018-02-12 22:53:06 : Test Data   : Password1
+2018-02-12 22:53:06 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 22:53:06 : Step Name   : [Register] 
+2018-02-12 22:53:06 : Test Status : FAILED
+2018-02-12 22:53:06 : Test Data   : Lee
+2018-02-12 22:53:06 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 22:53:06 : Step Name   : [Register] 
+2018-02-12 22:53:07 : Test Status : FAILED
+2018-02-12 22:53:07 : Test Data   : Siau Hui
+2018-02-12 22:53:07 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 22:53:07 : Step Name   : [Register] 
+2018-02-12 22:53:08 : Test Status : FAILED
+2018-02-12 22:53:08 : Test Data   : 016-3931808
+2018-02-12 22:53:08 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 22:53:08 : Step Name   : [Register] 
+2018-02-12 22:53:08 : Test Status : FAILED
+2018-02-12 22:53:08 : Test Data   : Malaysia
+2018-02-12 22:53:08 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 22:53:08 : Step Name   : [Register] 
+2018-02-12 22:53:09 : Test Status : FAILED
+2018-02-12 22:53:09 : Test Data   : 11,Jln Bangsar
+2018-02-12 22:53:09 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 22:53:09 : Step Name   : [Register] 
+2018-02-12 22:53:10 : Test Status : FAILED
+2018-02-12 22:53:10 : Test Data   : PJ
+2018-02-12 22:53:10 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 22:53:10 : Step Name   : [Register] 
+2018-02-12 22:53:11 : Test Status : FAILED
+2018-02-12 22:53:11 : Test Data   : 51200
+2018-02-12 22:53:11 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 22:53:11 : Step Name   : [Register] 
+2018-02-12 22:53:11 : Test Status : FAILED
+2018-02-12 22:53:12 : Test Data   : On
+2018-02-12 22:53:12 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 22:53:12 : Step Name   : [Register] 
+2018-02-12 22:53:12 : Test Status : FAILED
+2018-02-12 22:53:12 : Test Data   : Clicked
+2018-02-12 23:22:06 : *************************************************
+2018-02-12 23:22:06 : * * * * * * 01_Demo_a
+2018-02-12 23:22:06 : *************************************************
+2018-02-12 23:22:06 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:22:06 : Step Name   : [MainPage] Validate Special Offer
+2018-02-12 23:22:07 : Test Status : FAILED
+2018-02-12 23:22:07 : Test Data   : null
+2018-02-12 23:22:07 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:22:07 : Step Name   : [MainPage] Click User
+2018-02-12 23:22:09 : Test Status : PASSED
+2018-02-12 23:22:09 : Test Data   : Clicked
+2018-02-12 23:22:09 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:22:09 : Step Name   : [MainPage] Click Register
+2018-02-12 23:22:15 : Test Status : FAILED
+2018-02-12 23:22:15 : Test Data   : Clicked
+2018-02-12 23:22:15 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:22:15 : Step Name   : [Register] 
+2018-02-12 23:22:16 : Test Status : FAILED
+2018-02-12 23:22:16 : Test Data   : siauhui1
+2018-02-12 23:22:16 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:22:16 : Step Name   : [Register] 
+2018-02-12 23:22:16 : Test Status : FAILED
+2018-02-12 23:22:16 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:22:16 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:22:16 : Step Name   : [Register] 
+2018-02-12 23:22:17 : Test Status : FAILED
+2018-02-12 23:22:17 : Test Data   : Password1
+2018-02-12 23:22:17 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:22:17 : Step Name   : [Register] 
+2018-02-12 23:22:17 : Test Status : FAILED
+2018-02-12 23:22:17 : Test Data   : Password1
+2018-02-12 23:22:17 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:22:17 : Step Name   : [Register] 
+2018-02-12 23:22:18 : Test Status : FAILED
+2018-02-12 23:22:18 : Test Data   : Lee
+2018-02-12 23:22:18 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:22:18 : Step Name   : [Register] 
+2018-02-12 23:22:18 : Test Status : FAILED
+2018-02-12 23:22:18 : Test Data   : Siau Hui
+2018-02-12 23:22:19 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:22:19 : Step Name   : [Register] 
+2018-02-12 23:22:19 : Test Status : FAILED
+2018-02-12 23:22:19 : Test Data   : 016-3931808
+2018-02-12 23:22:19 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:22:19 : Step Name   : [Register] 
+2018-02-12 23:22:20 : Test Status : FAILED
+2018-02-12 23:22:20 : Test Data   : Malaysia
+2018-02-12 23:22:20 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:22:20 : Step Name   : [Register] 
+2018-02-12 23:22:20 : Test Status : FAILED
+2018-02-12 23:22:21 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:22:21 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:22:21 : Step Name   : [Register] 
+2018-02-12 23:22:21 : Test Status : FAILED
+2018-02-12 23:22:21 : Test Data   : PJ
+2018-02-12 23:22:21 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:22:21 : Step Name   : [Register] 
+2018-02-12 23:22:22 : Test Status : FAILED
+2018-02-12 23:22:22 : Test Data   : 51200
+2018-02-12 23:22:22 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:22:22 : Step Name   : [Register] 
+2018-02-12 23:22:23 : Test Status : FAILED
+2018-02-12 23:22:23 : Test Data   : On
+2018-02-12 23:22:23 : * * * * * * Test Step  151* * * * * * 
+2018-02-12 23:22:23 : Step Name   : [Register] 
+2018-02-12 23:22:24 : Test Status : FAILED
+2018-02-12 23:22:24 : Test Data   : Clicked
+2018-02-12 23:31:06 : *************************************************
+2018-02-12 23:31:06 : * * * * * * 01_Demo_a
+2018-02-12 23:31:06 : *************************************************
+2018-02-12 23:31:06 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:31:06 : Step Name   : [MainPage] Validate Special Offer
+2018-02-12 23:31:07 : Test Status : FAILED
+2018-02-12 23:31:07 : Test Data   : null
+2018-02-12 23:31:07 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:31:07 : Step Name   : [MainPage] Click User
+2018-02-12 23:31:09 : Test Status : PASSED
+2018-02-12 23:31:09 : Test Data   : Clicked
+2018-02-12 23:31:09 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:31:09 : Step Name   : [MainPage] Click Register
+2018-02-12 23:31:15 : Test Status : FAILED
+2018-02-12 23:31:15 : Test Data   : Clicked
+2018-02-12 23:31:15 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:31:15 : Step Name   : [Register] 
+2018-02-12 23:31:16 : Test Status : FAILED
+2018-02-12 23:31:16 : Test Data   : siauhui1
+2018-02-12 23:31:16 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:31:16 : Step Name   : [Register] 
+2018-02-12 23:31:16 : Test Status : FAILED
+2018-02-12 23:31:16 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:31:16 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:31:17 : Step Name   : [Register] 
+2018-02-12 23:31:17 : Test Status : FAILED
+2018-02-12 23:31:17 : Test Data   : Password1
+2018-02-12 23:31:17 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:31:17 : Step Name   : [Register] 
+2018-02-12 23:31:18 : Test Status : FAILED
+2018-02-12 23:31:18 : Test Data   : Password1
+2018-02-12 23:31:18 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:31:18 : Step Name   : [Register] 
+2018-02-12 23:31:18 : Test Status : FAILED
+2018-02-12 23:31:18 : Test Data   : Lee
+2018-02-12 23:31:18 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:31:18 : Step Name   : [Register] 
+2018-02-12 23:31:19 : Test Status : FAILED
+2018-02-12 23:31:19 : Test Data   : Siau Hui
+2018-02-12 23:31:19 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:31:19 : Step Name   : [Register] 
+2018-02-12 23:31:20 : Test Status : FAILED
+2018-02-12 23:31:20 : Test Data   : 016-3931808
+2018-02-12 23:31:20 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:31:20 : Step Name   : [Register] 
+2018-02-12 23:31:20 : Test Status : FAILED
+2018-02-12 23:31:20 : Test Data   : Malaysia
+2018-02-12 23:31:20 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:31:20 : Step Name   : [Register] 
+2018-02-12 23:31:21 : Test Status : FAILED
+2018-02-12 23:31:21 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:31:21 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:31:21 : Step Name   : [Register] 
+2018-02-12 23:31:22 : Test Status : FAILED
+2018-02-12 23:31:22 : Test Data   : PJ
+2018-02-12 23:31:22 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:31:22 : Step Name   : [Register] 
+2018-02-12 23:31:23 : Test Status : FAILED
+2018-02-12 23:31:23 : Test Data   : 51200
+2018-02-12 23:31:23 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:31:23 : Step Name   : [Register] 
+2018-02-12 23:31:24 : Test Status : FAILED
+2018-02-12 23:31:24 : Test Data   : On
+2018-02-12 23:31:24 : * * * * * * Test Step  151* * * * * * 
+2018-02-12 23:31:24 : Step Name   : [Register] 
+2018-02-12 23:31:25 : Test Status : FAILED
+2018-02-12 23:31:25 : Test Data   : Clicked
+2018-02-12 23:33:02 : *************************************************
+2018-02-12 23:33:02 : * * * * * * 01_Demo_a
+2018-02-12 23:33:02 : *************************************************
+2018-02-12 23:33:02 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:33:02 : Step Name   : [MainPage] Validate Follow
+2018-02-12 23:33:02 : Test Status : FAILED
+2018-02-12 23:33:02 : Test Data   : null
+2018-02-12 23:33:02 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:33:02 : Step Name   : [MainPage] Click User
+2018-02-12 23:33:05 : Test Status : PASSED
+2018-02-12 23:33:05 : Test Data   : Clicked
+2018-02-12 23:33:05 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:33:05 : Step Name   : [MainPage] Click Register
+2018-02-12 23:33:26 : Test Status : FAILED
+2018-02-12 23:33:26 : Test Data   : Clicked
+2018-02-12 23:33:26 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:33:26 : Step Name   : [Register] 
+2018-02-12 23:33:26 : Test Status : FAILED
+2018-02-12 23:33:26 : Test Data   : siauhui1
+2018-02-12 23:33:26 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:33:26 : Step Name   : [Register] 
+2018-02-12 23:33:27 : Test Status : FAILED
+2018-02-12 23:33:27 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:33:27 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:33:27 : Step Name   : [Register] 
+2018-02-12 23:33:28 : Test Status : FAILED
+2018-02-12 23:33:28 : Test Data   : Password1
+2018-02-12 23:33:28 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:33:29 : Step Name   : [Register] 
+2018-02-12 23:33:29 : Test Status : FAILED
+2018-02-12 23:33:29 : Test Data   : Password1
+2018-02-12 23:33:29 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:33:29 : Step Name   : [Register] 
+2018-02-12 23:33:30 : Test Status : FAILED
+2018-02-12 23:33:30 : Test Data   : Lee
+2018-02-12 23:33:30 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:33:30 : Step Name   : [Register] 
+2018-02-12 23:33:31 : Test Status : FAILED
+2018-02-12 23:33:31 : Test Data   : Siau Hui
+2018-02-12 23:33:31 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:33:31 : Step Name   : [Register] 
+2018-02-12 23:33:32 : Test Status : FAILED
+2018-02-12 23:33:32 : Test Data   : 016-3931808
+2018-02-12 23:33:32 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:33:32 : Step Name   : [Register] 
+2018-02-12 23:33:33 : Test Status : FAILED
+2018-02-12 23:33:33 : Test Data   : Malaysia
+2018-02-12 23:33:33 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:33:33 : Step Name   : [Register] 
+2018-02-12 23:33:33 : Test Status : FAILED
+2018-02-12 23:33:33 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:33:33 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:33:33 : Step Name   : [Register] 
+2018-02-12 23:33:34 : Test Status : FAILED
+2018-02-12 23:33:34 : Test Data   : PJ
+2018-02-12 23:33:34 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:33:34 : Step Name   : [Register] 
+2018-02-12 23:33:34 : Test Status : FAILED
+2018-02-12 23:33:34 : Test Data   : 51200
+2018-02-12 23:33:34 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:33:34 : Step Name   : [Register] 
+2018-02-12 23:33:35 : Test Status : FAILED
+2018-02-12 23:33:35 : Test Data   : On
+2018-02-12 23:33:35 : * * * * * * Test Step  151* * * * * * 
+2018-02-12 23:33:35 : Step Name   : [Register] 
+2018-02-12 23:33:36 : Test Status : FAILED
+2018-02-12 23:33:36 : Test Data   : Clicked
+2018-02-12 23:35:43 : *************************************************
+2018-02-12 23:35:43 : * * * * * * 01_Demo_a
+2018-02-12 23:35:43 : *************************************************
+2018-02-12 23:35:43 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:35:43 : Step Name   : [MainPage] Validate Special Offer
+2018-02-12 23:35:44 : Test Status : FAILED
+2018-02-12 23:35:44 : Test Data   : null
+2018-02-12 23:35:44 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:35:44 : Step Name   : [MainPage] Click User
+2018-02-12 23:35:46 : Test Status : PASSED
+2018-02-12 23:35:46 : Test Data   : Clicked
+2018-02-12 23:35:46 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:35:46 : Step Name   : [MainPage] Click Register
+2018-02-12 23:36:07 : Test Status : FAILED
+2018-02-12 23:36:07 : Test Data   : Clicked
+2018-02-12 23:36:07 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:36:07 : Step Name   : [Register] 
+2018-02-12 23:36:07 : Test Status : FAILED
+2018-02-12 23:36:07 : Test Data   : siauhui1
+2018-02-12 23:36:08 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:36:08 : Step Name   : [Register] 
+2018-02-12 23:36:08 : Test Status : FAILED
+2018-02-12 23:36:08 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:36:08 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:36:08 : Step Name   : [Register] 
+2018-02-12 23:36:09 : Test Status : FAILED
+2018-02-12 23:36:09 : Test Data   : Password1
+2018-02-12 23:36:09 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:36:09 : Step Name   : [Register] 
+2018-02-12 23:36:10 : Test Status : FAILED
+2018-02-12 23:36:10 : Test Data   : Password1
+2018-02-12 23:36:10 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:36:10 : Step Name   : [Register] 
+2018-02-12 23:36:11 : Test Status : FAILED
+2018-02-12 23:36:11 : Test Data   : Lee
+2018-02-12 23:36:11 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:36:11 : Step Name   : [Register] 
+2018-02-12 23:36:11 : Test Status : FAILED
+2018-02-12 23:36:11 : Test Data   : Siau Hui
+2018-02-12 23:36:11 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:36:11 : Step Name   : [Register] 
+2018-02-12 23:36:12 : Test Status : FAILED
+2018-02-12 23:36:12 : Test Data   : 016-3931808
+2018-02-12 23:36:12 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:36:12 : Step Name   : [Register] 
+2018-02-12 23:36:13 : Test Status : FAILED
+2018-02-12 23:36:13 : Test Data   : Malaysia
+2018-02-12 23:36:13 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:36:13 : Step Name   : [Register] 
+2018-02-12 23:36:13 : Test Status : FAILED
+2018-02-12 23:36:13 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:36:13 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:36:13 : Step Name   : [Register] 
+2018-02-12 23:36:14 : Test Status : FAILED
+2018-02-12 23:36:14 : Test Data   : PJ
+2018-02-12 23:36:14 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:36:14 : Step Name   : [Register] 
+2018-02-12 23:36:14 : Test Status : FAILED
+2018-02-12 23:36:14 : Test Data   : 51200
+2018-02-12 23:36:14 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:36:14 : Step Name   : [Register] 
+2018-02-12 23:36:15 : Test Status : FAILED
+2018-02-12 23:36:15 : Test Data   : On
+2018-02-12 23:36:15 : * * * * * * Test Step  151* * * * * * 
+2018-02-12 23:36:15 : Step Name   : [Register] 
+2018-02-12 23:36:16 : Test Status : FAILED
+2018-02-12 23:36:16 : Test Data   : Clicked
+2018-02-12 23:39:23 : *************************************************
+2018-02-12 23:39:23 : * * * * * * 01_Demo_a
+2018-02-12 23:39:23 : *************************************************
+2018-02-12 23:39:23 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:39:23 : Step Name   : [MainPage] Click User
+2018-02-12 23:39:26 : Test Status : PASSED
+2018-02-12 23:39:26 : Test Data   : Clicked
+2018-02-12 23:39:26 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:39:26 : Step Name   : [MainPage] Click Register
+2018-02-12 23:39:32 : Test Status : FAILED
+2018-02-12 23:39:32 : Test Data   : Clicked
+2018-02-12 23:39:32 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:39:32 : Step Name   : [Register] 
+2018-02-12 23:39:32 : Test Status : FAILED
+2018-02-12 23:39:32 : Test Data   : siauhui1
+2018-02-12 23:39:32 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:39:32 : Step Name   : [Register] 
+2018-02-12 23:39:33 : Test Status : FAILED
+2018-02-12 23:39:33 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:39:33 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:39:33 : Step Name   : [Register] 
+2018-02-12 23:39:33 : Test Status : FAILED
+2018-02-12 23:39:33 : Test Data   : Password1
+2018-02-12 23:39:33 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:39:33 : Step Name   : [Register] 
+2018-02-12 23:39:34 : Test Status : FAILED
+2018-02-12 23:39:34 : Test Data   : Password1
+2018-02-12 23:39:34 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:39:34 : Step Name   : [Register] 
+2018-02-12 23:39:35 : Test Status : FAILED
+2018-02-12 23:39:35 : Test Data   : Lee
+2018-02-12 23:39:35 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:39:35 : Step Name   : [Register] 
+2018-02-12 23:39:35 : Test Status : FAILED
+2018-02-12 23:39:35 : Test Data   : Siau Hui
+2018-02-12 23:39:35 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:39:35 : Step Name   : [Register] 
+2018-02-12 23:39:36 : Test Status : FAILED
+2018-02-12 23:39:36 : Test Data   : 016-3931808
+2018-02-12 23:39:36 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:39:36 : Step Name   : [Register] 
+2018-02-12 23:39:37 : Test Status : FAILED
+2018-02-12 23:39:37 : Test Data   : Malaysia
+2018-02-12 23:39:37 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:39:37 : Step Name   : [Register] 
+2018-02-12 23:39:37 : Test Status : FAILED
+2018-02-12 23:39:37 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:39:37 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:39:37 : Step Name   : [Register] 
+2018-02-12 23:39:38 : Test Status : FAILED
+2018-02-12 23:39:38 : Test Data   : PJ
+2018-02-12 23:39:38 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:39:38 : Step Name   : [Register] 
+2018-02-12 23:39:38 : Test Status : FAILED
+2018-02-12 23:39:38 : Test Data   : 51200
+2018-02-12 23:39:38 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:39:38 : Step Name   : [Register] 
+2018-02-12 23:39:39 : Test Status : FAILED
+2018-02-12 23:39:39 : Test Data   : On
+2018-02-12 23:39:39 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:39:39 : Step Name   : [Register] 
+2018-02-12 23:39:40 : Test Status : FAILED
+2018-02-12 23:39:40 : Test Data   : Clicked
+2018-02-12 23:42:43 : *************************************************
+2018-02-12 23:42:43 : * * * * * * 01_Demo_a
+2018-02-12 23:42:43 : *************************************************
+2018-02-12 23:42:43 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:42:43 : Step Name   : [MainPage] Click User
+2018-02-12 23:42:46 : Test Status : PASSED
+2018-02-12 23:42:46 : Test Data   : Clicked
+2018-02-12 23:42:46 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:42:46 : Step Name   : [MainPage] Click Register
+2018-02-12 23:42:49 : Test Status : PASSED
+2018-02-12 23:42:49 : Test Data   : Clicked
+2018-02-12 23:42:49 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:42:49 : Step Name   : [Register] 
+2018-02-12 23:44:59 : *************************************************
+2018-02-12 23:44:59 : * * * * * * 01_Demo_a
+2018-02-12 23:44:59 : *************************************************
+2018-02-12 23:44:59 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:44:59 : Step Name   : [MainPage] Click User
+2018-02-12 23:45:02 : Test Status : PASSED
+2018-02-12 23:45:02 : Test Data   : Clicked
+2018-02-12 23:45:02 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:45:02 : Step Name   : [MainPage] Click Register
+2018-02-12 23:45:51 : *************************************************
+2018-02-12 23:45:51 : * * * * * * 01_Demo_a
+2018-02-12 23:45:51 : *************************************************
+2018-02-12 23:45:51 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:45:51 : Step Name   : [MainPage] Click User
+2018-02-12 23:45:55 : Test Status : PASSED
+2018-02-12 23:45:55 : Test Data   : Clicked
+2018-02-12 23:45:55 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:45:55 : Step Name   : [MainPage] Click Register
+2018-02-12 23:45:57 : Test Status : PASSED
+2018-02-12 23:45:57 : Test Data   : Clicked
+2018-02-12 23:45:57 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:45:57 : Step Name   : [Register] 
+2018-02-12 23:52:03 : *************************************************
+2018-02-12 23:52:03 : * * * * * * 01_Demo_a
+2018-02-12 23:52:03 : *************************************************
+2018-02-12 23:52:03 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:52:03 : Step Name   : [MainPage] Click User
+2018-02-12 23:52:05 : Test Status : PASSED
+2018-02-12 23:52:05 : Test Data   : Clicked
+2018-02-12 23:52:06 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:52:06 : Step Name   : [MainPage] Click Register
+2018-02-12 23:52:11 : Test Status : FAILED
+2018-02-12 23:52:11 : Test Data   : Clicked
+2018-02-12 23:52:11 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:52:11 : Step Name   : [Register] 
+2018-02-12 23:52:12 : Test Status : FAILED
+2018-02-12 23:52:12 : Test Data   : siauhui1
+2018-02-12 23:52:12 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:52:12 : Step Name   : [Register] 
+2018-02-12 23:52:13 : Test Status : FAILED
+2018-02-12 23:52:13 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:52:13 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:52:13 : Step Name   : [Register] 
+2018-02-12 23:52:13 : Test Status : FAILED
+2018-02-12 23:52:13 : Test Data   : Password1
+2018-02-12 23:52:13 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:52:13 : Step Name   : [Register] 
+2018-02-12 23:52:14 : Test Status : FAILED
+2018-02-12 23:52:14 : Test Data   : Password1
+2018-02-12 23:52:14 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:52:14 : Step Name   : [Register] 
+2018-02-12 23:52:15 : Test Status : FAILED
+2018-02-12 23:52:15 : Test Data   : Lee
+2018-02-12 23:52:15 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:52:15 : Step Name   : [Register] 
+2018-02-12 23:52:15 : Test Status : FAILED
+2018-02-12 23:52:15 : Test Data   : Siau Hui
+2018-02-12 23:52:15 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:52:15 : Step Name   : [Register] 
+2018-02-12 23:52:16 : Test Status : FAILED
+2018-02-12 23:52:16 : Test Data   : 016-3931808
+2018-02-12 23:52:16 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:52:16 : Step Name   : [Register] 
+2018-02-12 23:52:17 : Test Status : FAILED
+2018-02-12 23:52:17 : Test Data   : Malaysia
+2018-02-12 23:52:17 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:52:17 : Step Name   : [Register] 
+2018-02-12 23:52:17 : Test Status : FAILED
+2018-02-12 23:52:17 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:52:17 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:52:17 : Step Name   : [Register] 
+2018-02-12 23:52:19 : Test Status : FAILED
+2018-02-12 23:52:19 : Test Data   : PJ
+2018-02-12 23:52:19 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:52:19 : Step Name   : [Register] 
+2018-02-12 23:52:19 : Test Status : FAILED
+2018-02-12 23:52:19 : Test Data   : 51200
+2018-02-12 23:52:19 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:52:19 : Step Name   : [Register] 
+2018-02-12 23:52:20 : Test Status : FAILED
+2018-02-12 23:52:20 : Test Data   : On
+2018-02-12 23:52:20 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:52:20 : Step Name   : [Register] 
+2018-02-12 23:52:21 : Test Status : FAILED
+2018-02-12 23:52:21 : Test Data   : Clicked
+2018-02-12 23:53:50 : *************************************************
+2018-02-12 23:53:50 : * * * * * * 01_Demo_a
+2018-02-12 23:53:50 : *************************************************
+2018-02-12 23:53:50 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:53:50 : Step Name   : [MainPage] Click User
+2018-02-12 23:53:53 : Test Status : PASSED
+2018-02-12 23:53:53 : Test Data   : Clicked
+2018-02-12 23:53:53 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:53:53 : Step Name   : [MainPage] Click Register
+2018-02-12 23:53:59 : Test Status : FAILED
+2018-02-12 23:53:59 : Test Data   : Clicked
+2018-02-12 23:53:59 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:53:59 : Step Name   : [Register] 
+2018-02-12 23:54:00 : Test Status : FAILED
+2018-02-12 23:54:00 : Test Data   : siauhui1
+2018-02-12 23:54:00 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:54:00 : Step Name   : [Register] 
+2018-02-12 23:54:01 : Test Status : FAILED
+2018-02-12 23:54:01 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:54:01 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:54:01 : Step Name   : [Register] 
+2018-02-12 23:54:01 : Test Status : FAILED
+2018-02-12 23:54:01 : Test Data   : Password1
+2018-02-12 23:54:01 : * * * * * * Test Step  51* * * * * * 
+2018-02-12 23:54:01 : Step Name   : [Register] 
+2018-02-12 23:54:01 : Test Status : FAILED
+2018-02-12 23:54:01 : Test Data   : Password1
+2018-02-12 23:54:01 : * * * * * * Test Step  61* * * * * * 
+2018-02-12 23:54:01 : Step Name   : [Register] 
+2018-02-12 23:54:01 : Test Status : FAILED
+2018-02-12 23:54:01 : Test Data   : Lee
+2018-02-12 23:54:02 : * * * * * * Test Step  71* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : Siau Hui
+2018-02-12 23:54:02 : * * * * * * Test Step  81* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : 016-3931808
+2018-02-12 23:54:02 : * * * * * * Test Step  91* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : Malaysia
+2018-02-12 23:54:02 : * * * * * * Test Step  101* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : 11,Jln Bangsar
+2018-02-12 23:54:02 : * * * * * * Test Step  111* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : PJ
+2018-02-12 23:54:02 : * * * * * * Test Step  121* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : 51200
+2018-02-12 23:54:02 : * * * * * * Test Step  131* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : On
+2018-02-12 23:54:02 : * * * * * * Test Step  141* * * * * * 
+2018-02-12 23:54:02 : Step Name   : [Register] 
+2018-02-12 23:54:02 : Test Status : FAILED
+2018-02-12 23:54:02 : Test Data   : Clicked
+2018-02-12 23:56:37 : *************************************************
+2018-02-12 23:56:37 : * * * * * * 01_Demo_a
+2018-02-12 23:56:37 : *************************************************
+2018-02-12 23:56:37 : * * * * * * Test Step  01* * * * * * 
+2018-02-12 23:56:37 : Step Name   : [MainPage] Click User
+2018-02-12 23:56:40 : Test Status : PASSED
+2018-02-12 23:56:40 : Test Data   : Clicked
+2018-02-12 23:56:40 : * * * * * * Test Step  11* * * * * * 
+2018-02-12 23:56:40 : Step Name   : [MainPage] Click Register
+2018-02-12 23:56:43 : Test Status : PASSED
+2018-02-12 23:56:43 : Test Data   : Clicked
+2018-02-12 23:56:43 : * * * * * * Test Step  21* * * * * * 
+2018-02-12 23:56:43 : Step Name   : [Register] 
+2018-02-12 23:57:27 : Test Status : PASSED
+2018-02-12 23:57:27 : Test Data   : siauhui1
+2018-02-12 23:57:27 : * * * * * * Test Step  31* * * * * * 
+2018-02-12 23:57:27 : Step Name   : [Register] 
+2018-02-12 23:59:34 : Test Status : PASSED
+2018-02-12 23:59:34 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-12 23:59:34 : * * * * * * Test Step  41* * * * * * 
+2018-02-12 23:59:34 : Step Name   : [Register] 
+2018-02-13 00:00:21 : Test Status : PASSED
+2018-02-13 00:00:21 : Test Data   : Password1
+2018-02-13 00:00:21 : * * * * * * Test Step  51* * * * * * 
+2018-02-13 00:00:21 : Step Name   : [Register] 
+2018-02-13 00:01:08 : Test Status : PASSED
+2018-02-13 00:01:08 : Test Data   : Password1
+2018-02-13 00:01:08 : * * * * * * Test Step  61* * * * * * 
+2018-02-13 00:01:08 : Step Name   : [Register] 
+2018-02-13 00:01:25 : Test Status : PASSED
+2018-02-13 00:01:25 : Test Data   : Lee
+2018-02-13 00:01:25 : * * * * * * Test Step  71* * * * * * 
+2018-02-13 00:01:25 : Step Name   : [Register] 
+2018-02-13 00:02:07 : Test Status : PASSED
+2018-02-13 00:02:07 : Test Data   : Siau Hui
+2018-02-13 00:02:07 : * * * * * * Test Step  81* * * * * * 
+2018-02-13 00:02:08 : Step Name   : [Register] 
+2018-02-13 00:03:04 : Test Status : PASSED
+2018-02-13 00:03:05 : Test Data   : 016-3931808
+2018-02-13 00:03:05 : * * * * * * Test Step  91* * * * * * 
+2018-02-13 00:03:05 : Step Name   : [Register] 
+2018-02-13 00:03:06 : Test Status : PASSED
+2018-02-13 00:03:06 : Test Data   : Malaysia
+2018-02-13 00:03:06 : * * * * * * Test Step  101* * * * * * 
+2018-02-13 00:03:06 : Step Name   : [Register] 
+2018-02-13 00:04:18 : Test Status : PASSED
+2018-02-13 00:04:18 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:04:18 : * * * * * * Test Step  111* * * * * * 
+2018-02-13 00:04:18 : Step Name   : [Register] 
+2018-02-13 00:04:30 : Test Status : PASSED
+2018-02-13 00:04:30 : Test Data   : PJ
+2018-02-13 00:04:30 : * * * * * * Test Step  121* * * * * * 
+2018-02-13 00:04:30 : Step Name   : [Register] 
+2018-02-13 00:04:57 : Test Status : PASSED
+2018-02-13 00:04:57 : Test Data   : 51200
+2018-02-13 00:04:57 : * * * * * * Test Step  131* * * * * * 
+2018-02-13 00:04:57 : Step Name   : [Register] 
+2018-02-13 00:05:08 : Test Status : PASSED
+2018-02-13 00:05:09 : Test Data   : On
+2018-02-13 00:05:09 : * * * * * * Test Step  141* * * * * * 
+2018-02-13 00:05:09 : Step Name   : [Register] 
+2018-02-13 00:05:11 : Test Status : PASSED
+2018-02-13 00:05:11 : Test Data   : Clicked
+2018-02-13 00:07:45 : *************************************************
+2018-02-13 00:07:45 : * * * * * * 01_Demo_a
+2018-02-13 00:07:45 : *************************************************
+2018-02-13 00:07:45 : * * * * * * Test Step  01* * * * * * 
+2018-02-13 00:07:45 : Step Name   : [MainPage] Click User
+2018-02-13 00:07:47 : Test Status : PASSED
+2018-02-13 00:07:47 : Test Data   : Clicked
+2018-02-13 00:07:47 : * * * * * * Test Step  11* * * * * * 
+2018-02-13 00:07:47 : Step Name   : [MainPage] Click Register
+2018-02-13 00:07:49 : Test Status : PASSED
+2018-02-13 00:07:49 : Test Data   : Clicked
+2018-02-13 00:07:49 : * * * * * * Test Step  21* * * * * * 
+2018-02-13 00:07:49 : Step Name   : [Register] 
+2018-02-13 00:07:53 : Test Status : PASSED
+2018-02-13 00:07:53 : Test Data   : siauhui1
+2018-02-13 00:07:53 : * * * * * * Test Step  31* * * * * * 
+2018-02-13 00:07:53 : Step Name   : [Register] 
+2018-02-13 00:07:55 : Test Status : PASSED
+2018-02-13 00:07:55 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-13 00:07:55 : * * * * * * Test Step  41* * * * * * 
+2018-02-13 00:07:55 : Step Name   : [Register] 
+2018-02-13 00:07:57 : Test Status : PASSED
+2018-02-13 00:07:57 : Test Data   : Password1
+2018-02-13 00:07:57 : * * * * * * Test Step  51* * * * * * 
+2018-02-13 00:07:57 : Step Name   : [Register] 
+2018-02-13 00:07:59 : Test Status : PASSED
+2018-02-13 00:07:59 : Test Data   : Password1
+2018-02-13 00:07:59 : * * * * * * Test Step  61* * * * * * 
+2018-02-13 00:07:59 : Step Name   : [Register] 
+2018-02-13 00:08:01 : Test Status : PASSED
+2018-02-13 00:08:01 : Test Data   : Lee
+2018-02-13 00:08:01 : * * * * * * Test Step  71* * * * * * 
+2018-02-13 00:08:01 : Step Name   : [Register] 
+2018-02-13 00:08:03 : Test Status : PASSED
+2018-02-13 00:08:03 : Test Data   : Siau Hui
+2018-02-13 00:08:03 : * * * * * * Test Step  81* * * * * * 
+2018-02-13 00:08:03 : Step Name   : [Register] 
+2018-02-13 00:08:05 : Test Status : PASSED
+2018-02-13 00:08:05 : Test Data   : 016-3931808
+2018-02-13 00:08:05 : * * * * * * Test Step  91* * * * * * 
+2018-02-13 00:08:05 : Step Name   : [Register] 
+2018-02-13 00:08:05 : Test Status : PASSED
+2018-02-13 00:08:05 : Test Data   : Malaysia
+2018-02-13 00:08:06 : * * * * * * Test Step  101* * * * * * 
+2018-02-13 00:08:06 : Step Name   : [Register] 
+2018-02-13 00:08:07 : Test Status : PASSED
+2018-02-13 00:08:07 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:08:07 : * * * * * * Test Step  111* * * * * * 
+2018-02-13 00:08:07 : Step Name   : [Register] 
+2018-02-13 00:08:09 : Test Status : PASSED
+2018-02-13 00:08:09 : Test Data   : PJ
+2018-02-13 00:08:09 : * * * * * * Test Step  121* * * * * * 
+2018-02-13 00:08:09 : Step Name   : [Register] 
+2018-02-13 00:08:11 : Test Status : PASSED
+2018-02-13 00:08:11 : Test Data   : 51200
+2018-02-13 00:08:11 : * * * * * * Test Step  131* * * * * * 
+2018-02-13 00:08:11 : Step Name   : [Register] 
+2018-02-13 00:08:12 : Test Status : PASSED
+2018-02-13 00:08:12 : Test Data   : On
+2018-02-13 00:08:12 : * * * * * * Test Step  141* * * * * * 
+2018-02-13 00:08:12 : Step Name   : [Register] 
+2018-02-13 00:08:15 : Test Status : PASSED
+2018-02-13 00:08:15 : Test Data   : Clicked
+2018-02-13 00:23:23 : *************************************************
+2018-02-13 00:23:23 : * * * * * * 01_Demo_a
+2018-02-13 00:23:23 : *************************************************
+2018-02-13 00:23:23 : * * * * * * Test Step  01* * * * * * 
+2018-02-13 00:23:23 : Step Name   : [MainPage] Click User
+2018-02-13 00:23:24 : Test Status : PASSED
+2018-02-13 00:23:24 : Test Data   : Clicked
+2018-02-13 00:23:24 : * * * * * * Test Step  11* * * * * * 
+2018-02-13 00:23:25 : Step Name   : [MainPage] Click Register
+2018-02-13 00:23:31 : Test Status : FAILED
+2018-02-13 00:23:31 : Test Data   : Clicked
+2018-02-13 00:23:31 : * * * * * * Test Step  21* * * * * * 
+2018-02-13 00:23:31 : Step Name   : [Register] 
+2018-02-13 00:23:32 : Test Status : FAILED
+2018-02-13 00:23:32 : Test Data   : siauhui1
+2018-02-13 00:23:32 : * * * * * * Test Step  31* * * * * * 
+2018-02-13 00:23:32 : Step Name   : [Register] 
+2018-02-13 00:23:32 : Test Status : FAILED
+2018-02-13 00:23:32 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-13 00:23:32 : * * * * * * Test Step  41* * * * * * 
+2018-02-13 00:23:33 : Step Name   : [Register] 
+2018-02-13 00:23:33 : Test Status : FAILED
+2018-02-13 00:23:33 : Test Data   : Password1
+2018-02-13 00:23:33 : * * * * * * Test Step  51* * * * * * 
+2018-02-13 00:23:33 : Step Name   : [Register] 
+2018-02-13 00:23:34 : Test Status : FAILED
+2018-02-13 00:23:34 : Test Data   : Password1
+2018-02-13 00:23:34 : * * * * * * Test Step  61* * * * * * 
+2018-02-13 00:23:34 : Step Name   : [Register] 
+2018-02-13 00:23:34 : Test Status : FAILED
+2018-02-13 00:23:34 : Test Data   : Lee
+2018-02-13 00:23:34 : * * * * * * Test Step  71* * * * * * 
+2018-02-13 00:23:34 : Step Name   : [Register] 
+2018-02-13 00:23:35 : Test Status : FAILED
+2018-02-13 00:23:35 : Test Data   : Siau Hui
+2018-02-13 00:23:35 : * * * * * * Test Step  81* * * * * * 
+2018-02-13 00:23:35 : Step Name   : [Register] 
+2018-02-13 00:23:36 : Test Status : FAILED
+2018-02-13 00:23:36 : Test Data   : 016-3931808
+2018-02-13 00:23:36 : * * * * * * Test Step  91* * * * * * 
+2018-02-13 00:23:36 : Step Name   : [Register] 
+2018-02-13 00:23:36 : Test Status : FAILED
+2018-02-13 00:23:36 : Test Data   : Malaysia
+2018-02-13 00:23:36 : * * * * * * Test Step  101* * * * * * 
+2018-02-13 00:23:37 : Step Name   : [Register] 
+2018-02-13 00:23:37 : Test Status : FAILED
+2018-02-13 00:23:37 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:23:37 : * * * * * * Test Step  111* * * * * * 
+2018-02-13 00:23:37 : Step Name   : [Register] 
+2018-02-13 00:23:38 : Test Status : FAILED
+2018-02-13 00:23:38 : Test Data   : PJ
+2018-02-13 00:23:38 : * * * * * * Test Step  121* * * * * * 
+2018-02-13 00:24:39 : *************************************************
+2018-02-13 00:24:39 : * * * * * * 01_Demo_a
+2018-02-13 00:24:39 : *************************************************
+2018-02-13 00:24:39 : * * * * * * Test Step  01* * * * * * 
+2018-02-13 00:24:39 : Step Name   : [MainPage] Click User
+2018-02-13 00:24:41 : Test Status : PASSED
+2018-02-13 00:24:41 : Test Data   : Clicked
+2018-02-13 00:24:41 : * * * * * * Test Step  11* * * * * * 
+2018-02-13 00:24:42 : Step Name   : [MainPage] Click Register
+2018-02-13 00:24:43 : Test Status : PASSED
+2018-02-13 00:24:43 : Test Data   : Clicked
+2018-02-13 00:24:43 : * * * * * * Test Step  21* * * * * * 
+2018-02-13 00:24:43 : Step Name   : [Register] 
+2018-02-13 00:24:47 : Test Status : PASSED
+2018-02-13 00:24:47 : Test Data   : siauhui1
+2018-02-13 00:24:47 : * * * * * * Test Step  31* * * * * * 
+2018-02-13 00:24:47 : Step Name   : [Register] 
+2018-02-13 00:24:50 : Test Status : PASSED
+2018-02-13 00:24:50 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-13 00:24:50 : * * * * * * Test Step  41* * * * * * 
+2018-02-13 00:24:50 : Step Name   : [Register] 
+2018-02-13 00:24:51 : Test Status : PASSED
+2018-02-13 00:24:51 : Test Data   : Password1
+2018-02-13 00:24:51 : * * * * * * Test Step  51* * * * * * 
+2018-02-13 00:24:51 : Step Name   : [Register] 
+2018-02-13 00:24:53 : Test Status : PASSED
+2018-02-13 00:24:53 : Test Data   : Password1
+2018-02-13 00:24:53 : * * * * * * Test Step  61* * * * * * 
+2018-02-13 00:24:53 : Step Name   : [Register] 
+2018-02-13 00:24:55 : Test Status : PASSED
+2018-02-13 00:24:55 : Test Data   : Lee
+2018-02-13 00:24:55 : * * * * * * Test Step  71* * * * * * 
+2018-02-13 00:24:55 : Step Name   : [Register] 
+2018-02-13 00:24:57 : Test Status : PASSED
+2018-02-13 00:24:57 : Test Data   : Siau Hui
+2018-02-13 00:24:57 : * * * * * * Test Step  81* * * * * * 
+2018-02-13 00:24:57 : Step Name   : [Register] 
+2018-02-13 00:24:59 : Test Status : PASSED
+2018-02-13 00:24:59 : Test Data   : 016-3931808
+2018-02-13 00:24:59 : * * * * * * Test Step  91* * * * * * 
+2018-02-13 00:24:59 : Step Name   : [Register] 
+2018-02-13 00:25:01 : Test Status : PASSED
+2018-02-13 00:25:01 : Test Data   : Malaysia
+2018-02-13 00:25:01 : * * * * * * Test Step  101* * * * * * 
+2018-02-13 00:25:01 : Step Name   : [Register] 
+2018-02-13 00:25:02 : Test Status : PASSED
+2018-02-13 00:25:02 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:25:02 : * * * * * * Test Step  111* * * * * * 
+2018-02-13 00:25:02 : Step Name   : [Register] 
+2018-02-13 00:25:04 : Test Status : PASSED
+2018-02-13 00:25:04 : Test Data   : PJ
+2018-02-13 00:25:04 : * * * * * * Test Step  121* * * * * * 
+2018-02-13 00:25:04 : Step Name   : [Register] 
+2018-02-13 00:25:06 : Test Status : PASSED
+2018-02-13 00:25:06 : Test Data   : 51200
+2018-02-13 00:25:06 : * * * * * * Test Step  131* * * * * * 
+2018-02-13 00:25:06 : Step Name   : [Register] 
+2018-02-13 00:25:07 : Test Status : PASSED
+2018-02-13 00:25:07 : Test Data   : On
+2018-02-13 00:25:07 : * * * * * * Test Step  141* * * * * * 
+2018-02-13 00:25:07 : Step Name   : [Register] 
+2018-02-13 00:25:10 : Test Status : PASSED
+2018-02-13 00:25:10 : Test Data   : Clicked
+2018-02-13 00:29:48 : *************************************************
+2018-02-13 00:29:48 : * * * * * * 01_Demo_a
+2018-02-13 00:29:48 : *************************************************
+2018-02-13 00:29:48 : * * * * * * Test Step  01* * * * * * 
+2018-02-13 00:29:48 : Step Name   : [MainPage] Click User
+2018-02-13 00:29:50 : Test Status : PASSED
+2018-02-13 00:29:50 : Test Data   : Clicked
+2018-02-13 00:29:50 : * * * * * * Test Step  11* * * * * * 
+2018-02-13 00:29:50 : Step Name   : [MainPage] Click Register
+2018-02-13 00:29:52 : Test Status : PASSED
+2018-02-13 00:29:52 : Test Data   : Clicked
+2018-02-13 00:29:52 : * * * * * * Test Step  21* * * * * * 
+2018-02-13 00:29:52 : Step Name   : [Register] 
+2018-02-13 00:29:56 : Test Status : PASSED
+2018-02-13 00:29:56 : Test Data   : siauhui1
+2018-02-13 00:29:56 : * * * * * * Test Step  31* * * * * * 
+2018-02-13 00:29:56 : Step Name   : [Register] 
+2018-02-13 00:29:58 : Test Status : PASSED
+2018-02-13 00:29:58 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-13 00:29:58 : * * * * * * Test Step  41* * * * * * 
+2018-02-13 00:29:58 : Step Name   : [Register] 
+2018-02-13 00:30:00 : Test Status : PASSED
+2018-02-13 00:30:00 : Test Data   : Password1
+2018-02-13 00:30:00 : * * * * * * Test Step  51* * * * * * 
+2018-02-13 00:30:00 : Step Name   : [Register] 
+2018-02-13 00:30:02 : Test Status : PASSED
+2018-02-13 00:30:02 : Test Data   : Password1
+2018-02-13 00:30:02 : * * * * * * Test Step  61* * * * * * 
+2018-02-13 00:30:02 : Step Name   : [Register] 
+2018-02-13 00:30:04 : Test Status : PASSED
+2018-02-13 00:30:04 : Test Data   : Lee
+2018-02-13 00:30:04 : * * * * * * Test Step  71* * * * * * 
+2018-02-13 00:30:04 : Step Name   : [Register] 
+2018-02-13 00:30:06 : Test Status : PASSED
+2018-02-13 00:30:06 : Test Data   : Siau Hui
+2018-02-13 00:30:06 : * * * * * * Test Step  81* * * * * * 
+2018-02-13 00:30:06 : Step Name   : [Register] 
+2018-02-13 00:30:08 : Test Status : PASSED
+2018-02-13 00:30:08 : Test Data   : 016-3931808
+2018-02-13 00:30:08 : * * * * * * Test Step  91* * * * * * 
+2018-02-13 00:30:08 : Step Name   : [Register] 
+2018-02-13 00:30:10 : Test Status : PASSED
+2018-02-13 00:30:10 : Test Data   : Malaysia
+2018-02-13 00:30:10 : * * * * * * Test Step  101* * * * * * 
+2018-02-13 00:30:10 : Step Name   : [Register] 
+2018-02-13 00:30:11 : Test Status : PASSED
+2018-02-13 00:30:11 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:30:11 : * * * * * * Test Step  111* * * * * * 
+2018-02-13 00:30:11 : Step Name   : [Register] 
+2018-02-13 00:30:13 : Test Status : PASSED
+2018-02-13 00:30:13 : Test Data   : PJ
+2018-02-13 00:30:13 : * * * * * * Test Step  121* * * * * * 
+2018-02-13 00:30:13 : Step Name   : [Register] 
+2018-02-13 00:30:15 : Test Status : PASSED
+2018-02-13 00:30:15 : Test Data   : 51200
+2018-02-13 00:30:15 : * * * * * * Test Step  131* * * * * * 
+2018-02-13 00:30:15 : Step Name   : [Register] 
+2018-02-13 00:30:16 : Test Status : PASSED
+2018-02-13 00:30:16 : Test Data   : On
+2018-02-13 00:30:16 : * * * * * * Test Step  141* * * * * * 
+2018-02-13 00:30:16 : Step Name   : [Register] 
+2018-02-13 00:30:19 : Test Status : PASSED
+2018-02-13 00:30:19 : Test Data   : Clicked
+2018-02-13 00:49:42 : *************************************************
+2018-02-13 00:49:42 : * * * * * * 01_Demo_a
+2018-02-13 00:49:42 : *************************************************
+2018-02-13 00:49:42 : * * * * * * Test Step  01* * * * * * 
+2018-02-13 00:49:42 : Step Name   : [MainPage] Click User
+2018-02-13 00:49:44 : Test Status : PASSED
+2018-02-13 00:49:44 : Test Data   : Clicked
+2018-02-13 00:49:44 : * * * * * * Test Step  11* * * * * * 
+2018-02-13 00:49:44 : Step Name   : [MainPage] Click Register
+2018-02-13 00:49:46 : Test Status : PASSED
+2018-02-13 00:49:46 : Test Data   : Clicked
+2018-02-13 00:49:46 : * * * * * * Test Step  21* * * * * * 
+2018-02-13 00:49:46 : Step Name   : [Register] 
+2018-02-13 00:49:50 : Test Status : PASSED
+2018-02-13 00:49:50 : Test Data   : siauhui1
+2018-02-13 00:49:50 : * * * * * * Test Step  31* * * * * * 
+2018-02-13 00:49:50 : Step Name   : [Register] 
+2018-02-13 00:49:52 : Test Status : PASSED
+2018-02-13 00:49:52 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-13 00:49:52 : * * * * * * Test Step  41* * * * * * 
+2018-02-13 00:49:52 : Step Name   : [Register] 
+2018-02-13 00:49:54 : Test Status : PASSED
+2018-02-13 00:49:54 : Test Data   : Password1
+2018-02-13 00:49:54 : * * * * * * Test Step  51* * * * * * 
+2018-02-13 00:49:54 : Step Name   : [Register] 
+2018-02-13 00:49:56 : Test Status : PASSED
+2018-02-13 00:49:56 : Test Data   : Password1
+2018-02-13 00:49:56 : * * * * * * Test Step  61* * * * * * 
+2018-02-13 00:49:56 : Step Name   : [Register] 
+2018-02-13 00:49:57 : Test Status : PASSED
+2018-02-13 00:49:57 : Test Data   : Lee
+2018-02-13 00:49:57 : * * * * * * Test Step  71* * * * * * 
+2018-02-13 00:49:57 : Step Name   : [Register] 
+2018-02-13 00:49:59 : Test Status : PASSED
+2018-02-13 00:49:59 : Test Data   : Siau Hui
+2018-02-13 00:49:59 : * * * * * * Test Step  81* * * * * * 
+2018-02-13 00:49:59 : Step Name   : [Register] 
+2018-02-13 00:50:01 : Test Status : PASSED
+2018-02-13 00:50:01 : Test Data   : 016-3931808
+2018-02-13 00:50:01 : * * * * * * Test Step  91* * * * * * 
+2018-02-13 00:50:01 : Step Name   : [Register] 
+2018-02-13 00:50:03 : Test Status : PASSED
+2018-02-13 00:50:03 : Test Data   : Malaysia
+2018-02-13 00:50:03 : * * * * * * Test Step  101* * * * * * 
+2018-02-13 00:50:03 : Step Name   : [Register] 
+2018-02-13 00:50:05 : Test Status : PASSED
+2018-02-13 00:50:05 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:50:05 : * * * * * * Test Step  111* * * * * * 
+2018-02-13 00:50:05 : Step Name   : [Register] 
+2018-02-13 00:50:06 : Test Status : PASSED
+2018-02-13 00:50:06 : Test Data   : PJ
+2018-02-13 00:50:06 : * * * * * * Test Step  121* * * * * * 
+2018-02-13 00:50:07 : Step Name   : [Register] 
+2018-02-13 00:50:08 : Test Status : PASSED
+2018-02-13 00:50:08 : Test Data   : 51200
+2018-02-13 00:50:08 : * * * * * * Test Step  131* * * * * * 
+2018-02-13 00:50:08 : Step Name   : [Register] 
+2018-02-13 00:50:10 : Test Status : PASSED
+2018-02-13 00:50:10 : Test Data   : On
+2018-02-13 00:50:10 : * * * * * * Test Step  141* * * * * * 
+2018-02-13 00:50:10 : Step Name   : [Register] 
+2018-02-13 00:50:12 : Test Status : PASSED
+2018-02-13 00:50:12 : Test Data   : Clicked
+2018-02-13 00:54:50 : *************************************************
+2018-02-13 00:54:50 : * * * * * * 01_Demo_a
+2018-02-13 00:54:50 : *************************************************
+2018-02-13 00:54:50 : * * * * * * Test Step  1* * * * * * 
+2018-02-13 00:54:50 : Step Name   : [MainPage] Click User
+2018-02-13 00:54:52 : Test Status : PASSED
+2018-02-13 00:54:52 : Test Data   : Clicked
+2018-02-13 00:54:52 : * * * * * * Test Step  2* * * * * * 
+2018-02-13 00:54:52 : Step Name   : [MainPage] Click Register
+2018-02-13 00:54:54 : Test Status : PASSED
+2018-02-13 00:54:54 : Test Data   : Clicked
+2018-02-13 00:54:54 : * * * * * * Test Step  3* * * * * * 
+2018-02-13 00:54:54 : Step Name   : [Register] 
+2018-02-13 00:54:58 : Test Status : PASSED
+2018-02-13 00:54:58 : Test Data   : siauhui1
+2018-02-13 00:54:58 : * * * * * * Test Step  4* * * * * * 
+2018-02-13 00:54:58 : Step Name   : [Register] 
+2018-02-13 00:55:00 : Test Status : PASSED
+2018-02-13 00:55:00 : Test Data   : siauhui.lee@appfuxion.com
+2018-02-13 00:55:00 : * * * * * * Test Step  5* * * * * * 
+2018-02-13 00:55:00 : Step Name   : [Register] 
+2018-02-13 00:55:02 : Test Status : PASSED
+2018-02-13 00:55:02 : Test Data   : Password1
+2018-02-13 00:55:02 : * * * * * * Test Step  6* * * * * * 
+2018-02-13 00:55:02 : Step Name   : [Register] 
+2018-02-13 00:55:04 : Test Status : PASSED
+2018-02-13 00:55:04 : Test Data   : Password1
+2018-02-13 00:55:04 : * * * * * * Test Step  7* * * * * * 
+2018-02-13 00:55:04 : Step Name   : [Register] 
+2018-02-13 00:55:05 : Test Status : PASSED
+2018-02-13 00:55:06 : Test Data   : Lee
+2018-02-13 00:55:06 : * * * * * * Test Step  8* * * * * * 
+2018-02-13 00:55:06 : Step Name   : [Register] 
+2018-02-13 00:55:07 : Test Status : PASSED
+2018-02-13 00:55:07 : Test Data   : Siau Hui
+2018-02-13 00:55:07 : * * * * * * Test Step  9* * * * * * 
+2018-02-13 00:55:07 : Step Name   : [Register] 
+2018-02-13 00:55:09 : Test Status : PASSED
+2018-02-13 00:55:09 : Test Data   : 016-3931808
+2018-02-13 00:55:09 : * * * * * * Test Step  10* * * * * * 
+2018-02-13 00:55:09 : Step Name   : [Register] 
+2018-02-13 00:55:11 : Test Status : PASSED
+2018-02-13 00:55:11 : Test Data   : Malaysia
+2018-02-13 00:55:11 : * * * * * * Test Step  11* * * * * * 
+2018-02-13 00:55:11 : Step Name   : [Register] 
+2018-02-13 00:55:13 : Test Status : PASSED
+2018-02-13 00:55:13 : Test Data   : 11,Jln Bangsar
+2018-02-13 00:55:13 : * * * * * * Test Step  12* * * * * * 
+2018-02-13 00:55:13 : Step Name   : [Register] 
+2018-02-13 00:55:14 : Test Status : PASSED
+2018-02-13 00:55:14 : Test Data   : PJ
+2018-02-13 00:55:14 : * * * * * * Test Step  13* * * * * * 
+2018-02-13 00:55:14 : Step Name   : [Register] 
+2018-02-13 00:55:16 : Test Status : PASSED
+2018-02-13 00:55:16 : Test Data   : 51200
+2018-02-13 00:55:16 : * * * * * * Test Step  14* * * * * * 
+2018-02-13 00:55:16 : Step Name   : [Register] 
+2018-02-13 00:55:17 : Test Status : PASSED
+2018-02-13 00:55:17 : Test Data   : On
+2018-02-13 00:55:18 : * * * * * * Test Step  15* * * * * * 
+2018-02-13 00:55:18 : Step Name   : [Register] 
+2018-02-13 00:55:20 : Test Status : PASSED
+2018-02-13 00:55:20 : Test Data   : Clicked

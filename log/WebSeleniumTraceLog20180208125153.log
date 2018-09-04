@@ -1,0 +1,23 @@
+2018-02-08 12:51:53 - [INFO] - [Log.doLogger()] - Main.initiateLog# 
+2018-02-08 12:51:53 - [INFO] - [Log.doLogger()] - Main.initMain# 
+2018-02-08 12:51:53 - [INFO] - [Log.doLogger()] - TestScript.prepareTestScripts - 2 TotalTestScriptFiles
+2018-02-08 12:51:53 - [INFO] - [Log.doLogger()] - TestScript.loadTestScript - C:\Wihemdra\Project\APP\04 DEVELOPMENT\TestScript\2. Agency_FF_iBig v0.2.xlsx
+2018-02-08 12:51:56 - [INFO] - [Log.doLogger()] - TestScript.loadTestScript# 121 Step
+2018-02-08 12:51:56 - [INFO] - [Log.doLogger()] - TestScript.loadTestData
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - TestScript.loadTestData# 1 Row
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - TestScript.loadTestScript - C:\Wihemdra\Project\APP\04 DEVELOPMENT\TestScript\Test.xlsx
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - TestScript.loadTestScript# 15 Step
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - TestScript.loadTestData
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - TestScript.loadTestData# 1 Row
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - TestScript.prepareTestScripts# 2 FinalTestScript
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.runWebAutomation
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.runSingleWebAutomation < Agency_FF_iBig_0230
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.initWebAutomation
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.initWebAutomation# 
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.runSingleWebAutomation# /Agency_FF_iBig_0230>
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.runSingleWebAutomation < 01_Demo_a
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.initWebAutomation
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.initWebAutomation# 
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.runSingleWebAutomation# /01_Demo_a>
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - WebAutomation.runWebAutomation# 
+2018-02-08 12:51:57 - [INFO] - [Log.doLogger()] - Main.main# 
